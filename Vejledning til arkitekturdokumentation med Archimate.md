@@ -773,7 +773,9 @@ Anvendes til at skabe overblik juridisk funderet mandat og begrænsninger for l�
 
 På baggrund af casen om den fiktive styrelse, er der givet nedenstående eksempel på hvorledes arkitekturproduktet juridiske bindinger kan se ud.
 
-![Figur 41: Simpel visning af juridiske bindinger](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2841%29.png)
+
+
+![Figur (41).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(41).png)
 
 Figur 41: Simpel visning af juridiske bindinger
 
@@ -781,7 +783,9 @@ Figur 41: Simpel visning af juridiske bindinger
 
 Nedenstående eksempel fra guide-projektet viser et simpelt første overblik over de overordnede forhold, der skal tages i betragtning. Det er delt op i tre grupperinger for henholdsvis lovgivning, aftaler og projektaftaler. Eksemplet viser, at der både kan være juridisk bindende og ikke juridisk bindende forpligtelser. Alle disse kan i det videre arbejde kortlægges og nedbrydes yderligere til konkrete krav til løsningen, i den grad det er relevant.
 
-![Figur 42: Eksempel på juridiske bindinger fra guide-projektet](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2842%29.png)
+
+
+![Figur (42).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(42).png)
 
 Figur 42: Eksempel på juridiske bindinger fra guide-projektet
 
@@ -789,7 +793,9 @@ Figur 42: Eksempel på juridiske bindinger fra guide-projektet
 
 Det næste eksempel er hentet fra NGDP-projektet. Det første diagram er et tidligt udkast, der viser et simpelt overblik over lovgrundlag, temaer for funktionelle og non-funktionelle krav, samt de vigtigste typer af kontrakter og aftaler, der skal realisere disse.
 
-![Figur 43: Eksempel på juridiske bindinger fra NGDP-projektet](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2843%29.png)
+
+
+![Figur (43).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(43).png)
 
 Figur 43: Eksempel på juridiske bindinger fra NGDP-projektet
 
@@ -797,7 +803,9 @@ Figur 43: Eksempel på juridiske bindinger fra NGDP-projektet
 
 Det næste diagram er en alternativ visning med en let viderebearbejdning, der viser sammenhængene mellem NGDPs lovgrundlag, de funktionelle kravgrupper, der temasætter kravene, og de anvendte kontrakter i styringen.
 
-![Figur 44: Eksempel på juridiske bindinger med relation fra NGDP-projektet](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2844%29.png)
+
+
+![Figur (44).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(44).png)
 
 Figur 44: Eksempel på juridiske bindinger med relation fra NGDP-projektet
 
@@ -815,13 +823,17 @@ Dette tværgående perspektiv dokumenterer alle væsentlige sikkerheds- og priva
 
 Her er vist de typiske ArchiMate-elementer, som anvendes i sikkerhedsperspektiver.
 
-![Figur 45: Elementer i grundperspektivet Sikkerhed](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2845%29.png)
+
+
+![Figur (45).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(45).png)
 
 Figur 45: Elementer i grundperspektivet Sikkerhed
 
 Nedenstående figur illustrerer de tilladte relationer mellem elementerne.
 
-![Figur 46: Elementer og relationer i grundperspektivet Sikkerhed](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2846%29.png)
+
+
+![Figur (46).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(46).png)
 
 Figur 46: Elementer og relationer i grundperspektivet Sikkerhed
 
@@ -862,13 +874,17 @@ På baggrund af casen om den fiktive styrelse, er der givet nedenstående to eks
 
 Bemærk at sikkerhedshændelser og risici er markeret med rød, hvilket er en tilpasning af standardfarverne for elementerne hhv. hændelse og vurdering. Den røde farve er anvendt for at vise hvordan man kan markere elementer med et særligt sikkerhedsfokus. Som nævnt tidligere, har ArchiMate ikke et specifikt lag eller aspekt for sikkerhed. Sikkerhedskrav kan her ses som handlinger, som skal hjælpe med til at afbøde (mitigering) sandsynlighed og/eller konsekvensen af en risiko.
 
-![Figur 47: Simpel visning af trussels- og risikokatalog](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2847%29.png)
+
+
+![Figur (47).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(47).png)
 
 Figur 47: Simpel visning af trussels- og risikokatalog
 
 I det udvidede eksempel er sikkerhedshændelser og risici relateret til hinanden og grupperet i fire grundlæggende tilgange til sikkerhed (fortrolighed, integritet, tilgængelighed og robusthed). Ligeledes er risici relateret til konkrete byggeblokke i arkitekturen, som de enkelte hændelser vil påvirke. Endelig er de relaterede sikkerhedskrav medtaget.
 
-![Figur 48: Udvidet visning af trussels- og risikokatalog](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2848%29.png)
+
+
+![Figur (48).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(48).png)
 
 Figur 48: Udvidet visning af trussels- og risikokatalog
 
@@ -876,7 +892,9 @@ Figur 48: Udvidet visning af trussels- og risikokatalog
 
 Nedenstående eksempel viser et overblik over sikkerhedsbegrænsninger, som er særligt væsentlige i projektet om ny generation digital post, og som derfor skal tænkes ind i arkitekturen og i projektet. Det er udarbejdet i analysefasen, og giver et samlet overblik på tværs af interessenterne og deres mange forskellige perspektiver. Det dækker fx brugerstyring, persondatabeskyttelse, sikkerhed i løsningen, driftssikkerhed, fysisk sikkerhed, test af sikkerhed og ikke mindst governance i forhold til sikkerhed. Det giver således et godt grundlag for det overordnede overblik og koordinering i forhold til projektets tværgående sikkerhedsaspekter.
 
-![Figur 49: Eksempel på sikkerhedsbegrænsninger fra NGDP](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2849%29.png)
+
+
+![Figur (49).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(49).png)
 
 Figur 49: Eksempel på sikkerhedsbegrænsninger fra NGDP
 
@@ -900,13 +918,17 @@ Sikkerhedsmodellen anvendes bl.a. af forretnings og it-arkitekter til at afklare
 
 På baggrund af casen om den fiktive styrelse, er der givet nedenstående to eksempler på hvorledes arkitekturproduktet sikkerhedsmodel kan se ud.
 
-![Figur 50: Simpel visning af sikkerhedsmodel](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2850%29.png)
+
+
+![Figur (50).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(50).png)
 
 Figur 50: Simpel visning af sikkerhedsmodel
 
 Den udvidede model viser hvordan de to forretningsservices er sikkerhedsmæssigt understøttet. Borgerens mulighed for indberetning af en klage sker via en klageportal ved brug af NemLogin, hvorimod modtagelse af afgørelse sker via digitalt signeret e-mail til borgeren.
 
-![Figur 51: Udvidet visning af sikkerhedsmodel](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2851%29.png)
+
+
+![Figur (51).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(51).png)
 
 Figur 51: Udvidet visning af sikkerhedsmodel
 
@@ -916,7 +938,9 @@ Nedenstående eksempel fra Guide-projektet viser, at der er flere sikkerhedsdom�
 
 I denne visning er der fokus på applikationslandskabet med de vigtigste komponenter, services og snitflader samt de centrale forretningsobjekter knyttet til tværgående rettighedsstyring. I denne visning er det centrale punkt for systemintegration mellem orkestreringskomponenten og underliggende databærende systemer fremhævet med brug af elementet _softwareinteraktion_.
 
-![Figur 52: Eksempel på sikkerhedsmodel fra guide-projektet](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2852%29.png)
+
+
+![Figur (52).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(52).png)
 
 Figur 52: Eksempel på sikkerhedsmodel fra Guide-projektet
 
@@ -929,7 +953,9 @@ Det næste eksempel fra PULS-projektet er mere simpelt, men kombineret med andre
 * ISO 27001/5 skal følges.
 * Der er to kontraktuelle forhold der skal håndteres vedr. brugerstyring og serviceanvendelse.
 
-![Figur 53: Eksempel på sikkerhedsmodel fra PULS projektet](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2853%29.png)
+
+
+![Figur (53).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(53).png)
 
 Figur 53: Eksempel på sikkerhedsmodel fra PULS-projektet
 
@@ -945,13 +971,17 @@ Opgaveperspektivet kan beskrives overordnet i form af arkitekturprodukter som fx
 
 ArchiMate-elementer, som ofte anvendes i relation til arkitekturprodukter i opgave- perspektivet, er vist i nedenstående figur.
 
-![Figur 54: Elementer i grundperspektivet Opgaver](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2854%29.png)
+
+
+![Figur (54).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(54).png)
 
 Figur 54: Elementer i grundperspektivet Opgaver
 
 Nedenstående figur illustrerer udvalgte relationer mellem elementerne.
 
-![Figur 55: Elementer og relationer i grundperspektivet Opgaver](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2855%29.png)
+
+
+![Figur (55).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(55).png)
 
 Figur 55: Elementer og relationer i grundperspektivet Opgaver
 
@@ -989,11 +1019,15 @@ Klageprocessen består af følgende processer:
 * _Klagebehandling: Hvor sagsbehandleren vurderer og eventuelt genberegner for at nå til en afgørelse._
 * _Afsend afgørelse: Hvor sagsbehandleren via ESDH-systemet afsender afgørelsen og arkiverer sagen._
 
-![Figur 56: simpel visning af Proceslandskab](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2856%29.png)
+
+
+![Figur (56).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(56).png)
 
 Figur 56: Simpel visning af Proceslandskab
 
-![Udvidet visning af Proceslandskab](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2857%29.png)
+
+
+![Figur (57).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(57).png)
 
 Figur 57: Udvidet visning af Proceslandskab
 
@@ -1001,7 +1035,9 @@ Figur 57: Udvidet visning af Proceslandskab
 
 Nedenstående eksempel fra FOTM viser et simpelt overblik over de processer der skal gennemføres i forbindelse med klargøring, opsætning og gennemførelse af test af et givent system med brug af det fællesoffentlige testmiljø.
 
-![Figur 58: Eksempel på proceslandskab fra FOTM](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2858%29.png)
+
+
+![Figur (58).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(58).png)
 
 Figur 58: Eksempel på proceslandskab fra FOTM
 
@@ -1032,11 +1068,15 @@ En aktør kan være en person eller en organisation (fx virksomhed eller myndigh
 
 På baggrund af casen om den fiktive styrelse, er der givet nedenstående to eksempler på hvorledes arkitekturproduktet Aktør/rolle kan se ud.
 
-![Figur 59: Simpel visning af aktør/rolle](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2859%29.png)
+
+
+![Figur (59).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(59).png)
 
 Figur 59: Simpel visning af aktør/rolle
 
-![Figur 60: Udvidet visning af aktør/rolle](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2860%29.png)
+
+
+![Figur (60).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(60).png)
 
 Figur 60: Udvidet visning af aktør/rolle
 
@@ -1044,7 +1084,9 @@ Figur 60: Udvidet visning af aktør/rolle
 
 Nedenstående eksempel fra FOTM giver et overordnet, grupperet overblik over aktører og roller grupperet. Her giver det et højniveau billede der minder om et interessentoverblik med roller som systemejer, arkitekt, support og drift. En del af disse roller er relevante i forhold til styring og ansvar i relation til løsningen, mens andre er relevante som brugere af løsningen. Næste skridt kunne være at relatere aktører og roller og anvende dette til en rettighedsmodel.
 
-![Figur 61: Eksempel på aktør / roller fra FOTM](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2861%29.png)
+
+
+![Figur (61).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(61).png)
 
 Figur 61: Eksempel på aktører / roller fra FOTM
 
@@ -1052,7 +1094,9 @@ Figur 61: Eksempel på aktører / roller fra FOTM
 
 Det følgende eksempel fra NGDP viser et overblik over digital post aktører og de roller, de kan tildeles. I denne visning er der ikke relationer der viser hvilke aktører der kan tildeles hvilke roller. Til gengæld viser dette overblik, de andre elementer i arkitekturen, der er centrale i forhold til aktører og roller med udgangspunkt i et specifikt epic.
 
-![Figur 62: Eksempel på aktør / roller fra NGDP-projektet](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2862%29.png)
+
+
+![Figur (62).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(62).png)
 
 Figur 62: Eksempel på aktører / roller fra NGDP-projektet
 
@@ -1085,13 +1129,17 @@ På baggrund af casen om den fiktive styrelse, er der givet nedenstående to eks
 
 Eksemplet viser brugerrejsen for en sagsbehandler, som skal behandle en modtaget klage. Her er brugerrejse anvendt som en simpel procesmodel. Hvis der skal indgå flere detaljer, bør modellen i stedet laves i BPMN.
 
-![Figur 63: Simpel visning af brugerrejse](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2863%29.png)
+
+
+![Figur (63).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(63).png)
 
 Figur 63: Simpel visning af brugerrejse
 
 I det udvidede eksempel er der lavet en relation til relevante forretningsobjekter og en indikation af hvilke it-systemer, som understøtter funktionerne.
 
-![Figur 64: Udvidet visning af brugerrejse](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2864%29.png)
+
+
+![Figur (64).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(64).png)
 
 Figur 64: udvidet visning af brugerrejse
 
@@ -1099,7 +1147,9 @@ Figur 64: udvidet visning af brugerrejse
 
 Dette eksempel fra FOTM-projektet viser en case med brug af NemLogin i forhold til en feriepenge-løsning via borger.dk. Eksemplet viser hvordan brugerens rejse fra start til slut understøttes på tværs af flere systemer.
 
-![Figur 65: Eksempel på brugerrejse fra FOTM-projektet](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2865%29.png)
+
+
+![Figur (65).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(65).png)
 
 Figur 65: Eksempel på brugerrejse fra FOTM-projektet
 
@@ -1128,11 +1178,15 @@ Dette produkt går på tværs af grundperspektiver Opgaver og Information og er 
 
 På baggrund af casen om den fiktive styrelse, er der givet nedenstående to eksempler på hvorledes arkitekturproduktet servicemodel kan se ud.
 
-![Figur 66: Simpel visning af servicemodel](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2866%29.png)
+
+
+![Figur (66).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(66).png)
 
 Figur 66: Simpel visning af servicemodel
 
-![Figur 67: Udvidet visning af servicemodel](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2867%29.png)
+
+
+![Figur (67).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(67).png)
 
 Figur 67: udvidet visning af servicemodel
 
@@ -1144,7 +1198,9 @@ Dette overblik viser ikke detaljer eller relationer, men de vigtigste elementer 
 
 Her er fokus i fortællingen at nogle aktører, med nogle roller, skal kunne udføre nogle services i nogle processer via et serviceinterface. Det data (forretningsobjekt) der er centralt er et token. Diagrammet kan indgå i dokumentationen af forretningsservices og fx suppleres med en mere detaljeret tekstbeskrivelse af servicemodellen med krav til data, funktionalitet og non-funktionelle krav.
 
-![Figur 68: Eksempel på servicemodel fra DMP](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2868%29.png)
+
+
+![Figur (68).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(68).png)
 
 Figur 68: Eksempel på servicemodel fra DMP
 
@@ -1160,13 +1216,17 @@ Informationsperspektivet giver et overblik over data og præsentationen af data 
 
 ArchiMate-elementer, som ofte anvendes i relation til arkitekturprodukter i opgave- perspektivet, er vist i nedenstående figur.
 
-![Figur 69: Elementer i grundperspektivet Information](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2869%29.png)
+
+
+![Figur (69).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(69).png)
 
 Figur 69: Elementer i grundperspektivet Information
 
 Nedenstående figur illustrerer udvalgte relationer mellem elementerne.
 
-![Figur 70: Elementer of relationer i grundperspektivet Information](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2870%29.png)
+
+
+![Figur (70).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(70).png)
 
 Figur 70: Elementer og relationer i grundperspektivet Information
 
@@ -1196,11 +1256,15 @@ De identificerede forretningsobjekter kan desuden anvendes i forbindelse med det
 
 På baggrund af casen om den fiktive styrelse, er der givet nedenstående to eksempler på hvorledes arkitekturproduktet Centrale forretningsobjekter kan se ud.
 
-![Figur 71: Simpel visning af centrale forretningsobjekter](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2871%29.png)
+
+
+![Figur (71).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(71).png)
 
 Figur 71: Udvidet visning af centrale forretningsobjekter
 
-![Figur 72: Udvidet visning af centrale forretningsobjekter](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2872%29.png)
+
+
+![Figur (72).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(72).png)
 
 Figur 72: Udvidet visning af centrale forretningsobjekter
 
@@ -1208,7 +1272,9 @@ Figur 72: Udvidet visning af centrale forretningsobjekter
 
 Nedenstående eksempel fra S&Y-projektet viser en et udsnit af en skitse til en overordnet kortlægning af udvalgte forretningsobjekter, som er relevante i forhold til at skabe et borgervendt overblik over sager og ydelser. Forretningsobjekterne er grupperet. Nogle vedrører selve sags- og ydelsesoverblikket, nogle vedrører en selvbetjeningskontekst, hvor de skal vises, og nogle viser forskellige objekter, der kan anvendes til at kommunikere meddelelser i relation til disse sager og ydelser.
 
-![Figur 73: Eksempel på centrale forretningsobjekter fra Sag og Ydelses-projektet](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2873%29.png)
+
+
+![Figur (73).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(73).png)
 
 Figur 73: Eksempel på centrale forretningsobjekter fra S&Y-projektet
 
@@ -1236,11 +1302,15 @@ Kortlægningen kan både bygge på og støtte den dokumentation man som myndighe
 
 På baggrund af casen om den fiktive styrelse, er der givet nedenstående to eksempler på hvorledes arkitekturproduktet datasæt kan se ud.
 
-![Figur 74: Simpel visning af datasæt](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2874%29.png)
+
+
+![Figur (74).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(74).png)
 
 Figur 74: Simpel visning af datasæt
 
-![Figur 75: Udvidet visning af datasæt](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2875%29.png)
+
+
+![Figur (75).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(75).png)
 
 Figur 75: Udvidet visning af datasæt
 
@@ -1248,7 +1318,9 @@ Figur 75: Udvidet visning af datasæt
 
 Nedenstående eksempel fra PULS-projektet viser at der er fire datasæt og fire centrale repræsentationer, som skal indgå i løsningsarkitekturen. Dette har fx betydning for krav til udarbejdelse af både tekniske snitflader og brugergrænseflader.
 
-![Figur 76: Eksempel på datasæt fra PULS-projektet](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2876%29.png)
+
+
+![Figur (76).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(76).png)
 
 Figur 76: Eksempel på datasæt fra PULS-projektet
 
@@ -1260,13 +1332,17 @@ Applikationsperspektivet har fokus på applikationskomponenter og services, der 
 
 ArchiMate-elementer, som ofte anvendes i relation til arkitekturprodukter i Applikation-perspektivet, er vist i nedenstående figur.
 
-![Figur 77: Elementer i grundperspektivet Applikation](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2877%29.png)
+
+
+![Figur (77).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(77).png)
 
 Figur 77: Elementer i grundperspektivet Applikation
 
 Nedenstående figur illustrerer udvalgte relationer mellem elementerne.
 
-![Figur 78: Elementer og relationer i grundperspektivet Applikation](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2878%29.png)
+
+
+![Figur (78).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(78).png)
 
 Figur 78: Elementer og relationer i grundperspektivet Applikation
 
@@ -1299,11 +1375,15 @@ Formålet er at give interessenterne - særligt løsningsarkitekter - et overbli
 
 På baggrund af casen om den fiktive styrelse, er der givet nedenstående to eksempler på hvorledes arkitekturproduktet systemlandskab kan se ud.
 
-![Figur 79: Simpel visning af systemlandskab](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2879%29.png)
+
+
+![Figur (79).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(79).png)
 
 Figur 79: Simpel visning af Systemlandskab
 
-![Figur 80: Udvidet visning af Systemlandskab](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2880%29.png)
+
+
+![Figur (80).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(80).png)
 
 Figur 80: Udvidet visning af Systemlandskab
 
@@ -1313,13 +1393,17 @@ Nedenstående eksempel fra NGDP giver et overblik over de centrale komponenter, 
 
 Desuden er den centrale _applikationsinteraktion_ “Modtag enkelt meddelelse” taget med. Applikationsfunktioner er ikke beskrevet nærmere, hvilket her er synliggjort med en pladsholder i form af det abstrakte _applikationsfunktions_\-element.
 
-![Figur 81: Eksempel på systemlandskab fra NGDP-projektet](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2881%29.png)
+
+
+![Figur (81).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(81).png)
 
 Figur 81: Eksempel på Systemlandskab fra NGDP-projektet
 
 Nedenfor er samme visning videreudviklet en smule. Her vises de centrale services i to grupper for henholdsvis meddelelseshåndtering og kontakthåndtering. De er relateret, så det bliver tydeligere hvilken funktionalitet der skal understøttes, og hvilken (processuel) sammenhæng der er mellem dem.
 
-![Figur 82: Eksempel på systemlandskab (udvidet( fra NGDP-projektet](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2882%29.png)
+
+
+![Figur (82).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(82).png)
 
 Figur 82: Eksempel på Systemlandskab (udvidet) fra NGDP-projektet
 
@@ -1343,7 +1427,9 @@ Denne visning kan anvendes til at få overblik over integrationer relateret til 
 
 På baggrund af casen om den fiktive styrelse, er der givet nedenstående eksempel på hvorledes arkitekturproduktet applikationslandskab med integrationer kan se ud.
 
-![Figur 83: Udvidet visning af applikationslandskab med integrationer](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2883%29.png)
+
+
+![Figur (83).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(83).png)
 
 Figur 83: Udvidet visning af applikationslandskab med integrationer
 
@@ -1353,7 +1439,9 @@ Nedenstående eksempel fra HIP-projektet viser et overblik over komponenter, ser
 
 Fokus i denne visning er bl.a. at give et overblik over de mange eksterne services.
 
-![Figur 84: Eksempel på Applikationslandskab med integrationer fra HIP-projektet](/sites/default/fileuploads/Eksempel%20p%C3%A5%20applikationslandskab%20med%20integrationer%20fra%20HIP-projektet_0.svg)
+
+
+![Figur (84).svg](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(84).svg)
 
 Figur 84: Eksempel på applikationslandskab med integrationer fra HIP-projektet
 
@@ -1365,13 +1453,17 @@ Infrastrukturperspektivet har fokus på teknologiservices, som leverer den gener
 
 ArchiMate-elementer, som ofte anvendes i relation til arkitekturprodukter i infrastrukturperspektivet, er vist i nedenstående figur.
 
-![Figur 85: Elementer i grundperspektivet infrastruktur](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2885%29.png)
+
+
+![Figur (85).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(85).png)
 
 Figur 85: Elementer i grundperspektivet Infrastruktur
 
 Nedenstående figur illustrerer udvalgte relationer mellem elementerne.
 
-![Figur 86: Elementer og relationer i grundperspektivet Infrastruktur](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2886%29.png)
+
+
+![Figur (86).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(86).png)
 
 Figur 86: Elementer og relationer i grundperspektivet Infrastruktur
 
@@ -1404,7 +1496,9 @@ På baggrund af casen om den fiktive styrelse, er der givet nedenstående eksemp
 
 Eksemplet viser at klagesystemet understøttes af to tekniske services, en beregningsmotor (implementeret på mainframe) og en applikation (implementeret på windows-server). Både mainframe og windows-server er fysisk placeret i Odense, hvor styrelsen har til huse. ESDH-systemet er derimod hostet eksternt af en hosting-leverandør. Her er det en Unix-server, som understøtter ESDH-systemet.
 
-![Figur 87: Udvidet visning af infrastrukturlandskabe](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2887%29.png)
+
+
+![Figur (87).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(87).png)
 
 Figur 87: Udvidet visning af infrastrukturlandskab
 
@@ -1412,7 +1506,9 @@ Figur 87: Udvidet visning af infrastrukturlandskab
 
 Nedenstående visning fra GovCloud-projektet viser er infrastrukturlandskabet med fokus på noder, netværk og sikkerhed i henhold til firewall og adgangsstyring.
 
-![Figur 88: Eksempel på infrastrukturlandskab fra GovCloud-projektet](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2888%29.png)
+
+
+![Figur (88).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(88).png)
 
 Figur 88: Eksempel på infrastrukturlandskab fra GovCloud-projektet
 
@@ -1420,7 +1516,9 @@ Figur 88: Eksempel på infrastrukturlandskab fra GovCloud-projektet
 
 Nedenstående eksempel fra Region Syd viser et infrastrukturlandskab med fokus på loadbalancing mellem to noder i infrastrukturen og viser det underliggende systemsoftware.
 
-![Figur 89: Eksempel på infrastrukturlandskab fra Region Syd](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2889%29.png)
+
+
+![Figur (89).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(89).png)
 
 Figur 89: Eksempel på infrastrukturlandskab fra Region Syd
 
@@ -1447,7 +1545,9 @@ På baggrund af casen om den fiktive styrelse, er der givet nedenstående eksemp
 
 Eksemplet viser de to centrale noder i Odense, nemlig mainframe, Windows-server samt LAN (netværket) og firewall.
 
-![Figur 90: Visning af infrastrukturopsætning](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2890%29.png)
+
+
+![Figur (90).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(90).png)
 
 Figur 90: Visning af infrastrukturopsætning
 
@@ -1455,7 +1555,9 @@ Figur 90: Visning af infrastrukturopsætning
 
 Nedenstående visning fra GovCloud-projektet viser er infrastrukturkonfiguration med fokus på nodernes indhold af systemsoftware, samt relationerne til server og SAN devices.
 
-![Figur 91: Eksempel på infrastrukturopsætning fra GovCloud-projektet](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20%2891%29.png)
+
+
+![Figur (91).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(91).png)
 
 Figur 91: Eksempel på infrastrukturopsætning fra GovCloud-projektet
 
@@ -1475,60 +1577,64 @@ Se også FDA-ordbogen ([https://arkitektur.digst.dk/ordbog](https://arkitektur.d
 
 Denne liste indeholder udvalgte elementer i ArchiMate. For hvert element er der en visualisering i form af et ArchiMate-symbol, en dansk term og definition oversat fra ArchiMate, den engelske term, samt et eksempel på indholdet.
 
-| ArchiMate- element                                                                                                                                                                         | Definition \[Dansk\]                                                                                                                                                                                             | Term \[English\]        | Eksempel                                                                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Plateau element](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20B%20%281%29.png)                  | Et _Plateau_ repræsenterer en relativt stabil tilstand for en arkitektur, der eksisterer i en begrænset periode.                                                                                                 | Plateau                 | MitID erstatter NemID                                                                                                                                                  |
-| ![Gap element](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20B%20%282%29.png)                      | Et _Gap_ er et udtryk for den forskel, der er imellem arkitekturen på to plateauer                                                                                                                               | Gap                     | En transitionskomponent skal sikre at alle kan sende og modtage postmeddelelser i en overgangsperiode indtil det nye Digital Post meddelelsesformat kan læses af alle. |
-| ![Leverence element](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20B%20%283%29.png)                | En _Leverance_ er udkommet af et projektforløb, som bidrager til at reducere et Gap.                                                                                                                             | Deliverable             | En konkret projektleverance, som fx en applikationskomponent                                                                                                           |
-| ![Kapabilitetselement](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20B%20%284%29.png)              | En _Kapabilitet_ er en evne, som en organisation, person, eller et system indehaver                                                                                                                              | Capability              | At kunne sende uafviselig digital post                                                                                                                                 |
-| ![Ressource element](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20B%20%285%29.png)                | En _Ressource_ er et aktiv, der indehaves af en organisation, en person eller et system.                                                                                                                         | Resource                | \- Et styringsforum, en kvalificeret medarbejder, eller en faglig/teknisk kapacitet.                                                                                   |
-| ![Mål element](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20B%20%286%29.png)                      | Et _Mål_ repræsenterer en formel intention, retning eller et ønsket end-state på højt niveau                                                                                                                     | Goal                    | Tryghed og tillid skal i centrum                                                                                                                                       |
-| ![Interessent element](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20B%20%287%29.png)              | En _Interessent_ er en aktør, der har forventninger eller krav til løsningen.                                                                                                                                    | Stakeholder             | En virksomhed                                                                                                                                                          |
-| ![Driver element](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20B%20%288%29.png)                   | En _Driver_ er en ekstern eller intern tilstand, der motiverer en organisation til at definere sine mål og implementere nødvendige ændringer for at opnå dem.                                                    | Driver                  | Lovkrav, fx GDPR, kan være en driver for ønsket om en ændring.                                                                                                         |
-| ![Princip element](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20B%20%289%29.png)                  | Et _Princip_ er en formelt besluttet hensigt, der skal realiseres via arkitekturen                                                                                                                               | Principle               | Arkitektur styres på rette niveau efter fælles rammer                                                                                                                  |
-| ![Vurderingselement](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20B%20%2810%29.png)               | En _Vurdering_ er resultatet af en analyse af organisationens situation med hensyn til en _Driver_.                                                                                                              | Assessment              | En risikoanalyse er et eksempel på en vurdering                                                                                                                        |
-| ![Begrænsningselement](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20B%20%2811%29.png)             | En _Begrænsning_ er en restriktion i opgaver, information, teknik eller infrastruktur.                                                                                                                           | Constraint              | Brugerrettighedsstyring                                                                                                                                                |
-| ![Krav element](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20B%20%2812%29.png)                    | Et _Krav_ repræsenterer et behov, der er udtrykt og forventes opfyldt af arkitekturen.<br><br>Note: Anvendes også til at beskrive væsentlige bindinger givet af lovgivning.                                      | Requirement             | NemID skal anvendes til sikker identifikation af brugere                                                                                                               |
-| ![Kontraktelement](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20B%20%2813%29.png)                 | En _Kontrakt_ repræsenterer en formel eller uformel specifikation af en aftale                                                                                                                                   | Contract                | Service Level Agreement                                                                                                                                                |
-| ![Aktør element](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20B%20%2814%29.png)                   | En _Aktør_ er en entitet, der er i stand til at handle                                                                                                                                                           | Business Actor          | Borger                                                                                                                                                                 |
-| ![Forretningsfunktionselement](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20B%20%2815%29.png)     | En _Forretningsfunktion_ er en samling af handlemåder baseret på et specifikt sæt af kriterier, i tæt forbindelse til en organisation, men ikke nødvendigvis eksplicit underlagt styring fra denne organisation. | Business Function       | Beregning af løn                                                                                                                                                       |
-| ![Forretningsinteraktionselement](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20B%20%2816%29.png)  | En _Forretningsinteraktion_ er en handling, der involverer to eller flere roller.                                                                                                                                | Business Interaction    | Alarmcentral sender ambulance til ulykkessted.                                                                                                                         |
-| ![Forretningsinterfaceelement](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20B%20%2817%29.png)     | Et _Forretningsinterface_ er et adgangspunkt til en Forretningsservice, der gør den tilgængelig for omgivelserne                                                                                                 | Business Interface      | Borger.dk                                                                                                                                                              |
-| ![Forretningssamarbejdeelement](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20B%20%2818%29.png)    | Et _Forretningssamarbejde_ er et koordineret sæt af handlinger, der gennemføres i samarbejde mellem to eller flere roller...                                                                                     | Business Collaboration  | Rejseafregning                                                                                                                                                         |
-| ![Forretningsserviceelement](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20B%20%2819%29.png)       | En _Forretningsservice_ repræsenterer en eksplicit defineret og udstillet forretningsmæssig adfærd                                                                                                               | Business Service        | Anmeld flytning                                                                                                                                                        |
-| ![Hændelseselement](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20B%20%2820%29.png)                | En _Hændelse_ angiver et skift i en (organisatorisk) tilstand. Årsag og konsekvenser kan være interne, eksterne eller en kombination.                                                                            | Business Event          | Patient udskrives                                                                                                                                                      |
-| ![Priceselement](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20B%20%2821%29.png)                   | En _Proces_ repræsenterer en sekvens af handlinger                                                                                                                                                               | Business Process        | Ændring af folkeregister-adresse                                                                                                                                       |
-| ![Rolle Element](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20B%20%2822%29.png)                   | En _Rolle_ er det ansvar for at gennemføre en specifik handling, som en aktør kan tildeles, eller den del af en bestemt handling eller hændelse som en aktør spiller                                             | Business Role           | Bruger af offentlig service                                                                                                                                            |
-| ![Forretningsobjektelement](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20B%20%2823%29.png)        | Et _Forretningsobjekt_ repræsenterer et objekt, der anvendes i et specifikt forretningsdomæne                                                                                                                    | Business Object         | Recept                                                                                                                                                                 |
-| ![Repræsentationselement](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20B%20%2824%29.png)          | En _Repræsentation_ udgør en forståelig form af den information som et forretningsobjekt eller dataobjekt indeholder                                                                                             | Representation          | Dokument, SMS                                                                                                                                                          |
-| ![Dataobjektelement](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20B%20%2825%29.png)               | _Dataobjekt_ er information lagret med henblik på (gen)anvendelse og repræsenterer et dataobjekt, der er struktureret, så det kan processeres automatisk                                                         | Data Object             | Personnummer                                                                                                                                                           |
-| ![Applikationsinterfaceelement](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20B%20%2826%29.png)    | Et _Applikationsinterface_ repræsenterer et adgangspunkt, hvor applikationsservices er tilgængelige.                                                                                                             | Application Interface   | Personbrugervendt HTML5 eller maskinvendt API                                                                                                                          |
-| ![Applikationsinteraktionselement](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20B%20%2827%29.png) | En _Applikationssinteraktion_ beskriver den handling der gennemføres i integrationen imellem to komponenter                                                                                                      | Application Interaction | Modtag Digital Post                                                                                                                                                    |
-| ![Applikationsservice element](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20B%20%2828%29.png)     | En _Applikationsservice_ repræsenterer en eksplicit defineret og udstillet applikationstjeneste                                                                                                                  | Application Service     | Digital postkasse                                                                                                                                                      |
-| ![Applikationsfunktionselement](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20B%20%2829%29.png)    | En _Applikationsfunktion_ repræsenterer en automatiseret handling, der udføres af en komponent                                                                                                                   | Application Function    | Vis Indbakke                                                                                                                                                           |
-| ![Komponentelement](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20B%20%2830%29.png)                | En _Komponent_ repræsenterer en samling af applikationsfunktionalitet koblet til en implementeringsstruktur, der er modulopbygget og udskiftelig                                                                 | Application Component   | ESDH-system                                                                                                                                                            |
-| ![Node element](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20B%20%2831%29.png)                    | En _Node_ er en beregningsmæssig eller fysisk ressource, der er host for, manipulerer eller interagerer med andre beregningsmæssige eller fysiske ressourcer.                                                    | Node                    | En node kan fx være et device og/eller systemsoftware, fx en server                                                                                                    |
-| ![Device-element](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20B%20%2832%29.png)                  | Et _Device_ er en fysisk it-ressource, hvorpå system software og artefakter kan være lagret eller implementeret til udførelse.                                                                                   | Device                  | En database eller en server                                                                                                                                            |
-| ![Teknisk Interfaceelement](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20B%20%2833%29.png)        | Et _Teknisk interface_ er et adgangspunkt til en _Tekniske service_.                                                                                                                                             |                         |                                                                                                                                                                        |
-| ![Teknisk serviceelement](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20B%20%2834%29.png)          | En _Teknisk service_ repræsenterer en eksplicit defineret og udstillet teknisk tjeneste                                                                                                                          | Technical Component     | Beskedfordeler                                                                                                                                                         |
-| ![Netværks element](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20B%20%2835%29.png)                | Et _Netværk_ forbinder systemer eller andre elektroniske enheder til transmission, routing eller modtagelse af data eller databaseret kommunikation, som fx lyd og video.                                        | Communication Network   | LAN                                                                                                                                                                    |
-| ![Systemsoftwareelement](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20B%20%2836%29.png)           | _Systemsoftware_ er software, der leverer eller bidrager til et miljø til at opbevare, udføre og bruge software eller data i systemet.                                                                           | System Software         | Konkrete systemapplikationer, som fx henter data fra en database                                                                                                       |
+
+
+| ArchiMate- element                                                                                                                                                    | Definition \[Dansk\]                                                                                                                                                                                             | Term \[English\]        | Eksempel                                                                                                                                                               |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Figur Appendiks B (1).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20B%20(1).png) | Et _Plateau_ repræsenterer en relativt stabil tilstand for en arkitektur, der eksisterer i en begrænset periode.                                                                                                 | Plateau                 | MitID erstatter NemID                                                                                                                                                  |
+| ![](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20B%20(2).png)                          | Et _Gap_ er et udtryk for den forskel, der er imellem arkitekturen på to plateauer                                                                                                                               | Gap                     | En transitionskomponent skal sikre at alle kan sende og modtage postmeddelelser i en overgangsperiode indtil det nye Digital Post meddelelsesformat kan læses af alle. |
+| ![](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20B%20(3).png)                          | En _Leverance_ er udkommet af et projektforløb, som bidrager til at reducere et Gap.                                                                                                                             | Deliverable             | En konkret projektleverance, som fx en applikationskomponent                                                                                                           |
+| ![](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20B%20(4).png)                          | En _Kapabilitet_ er en evne, som en organisation, person, eller et system indehaver                                                                                                                              | Capability              | At kunne sende uafviselig digital post                                                                                                                                 |
+| ![](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20B%20(5).png)                          | En _Ressource_ er et aktiv, der indehaves af en organisation, en person eller et system.                                                                                                                         | Resource                | \- Et styringsforum, en kvalificeret medarbejder, eller en faglig/teknisk kapacitet.                                                                                   |
+| ![](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20B%20(6).png)                          | Et _Mål_ repræsenterer en formel intention, retning eller et ønsket end-state på højt niveau                                                                                                                     | Goal                    | Tryghed og tillid skal i centrum                                                                                                                                       |
+| ![](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20B%20(7).png)                          | En _Interessent_ er en aktør, der har forventninger eller krav til løsningen.                                                                                                                                    | Stakeholder             | En virksomhed                                                                                                                                                          |
+| ![](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20B%20(8).png)                          | En _Driver_ er en ekstern eller intern tilstand, der motiverer en organisation til at definere sine mål og implementere nødvendige ændringer for at opnå dem.                                                    | Driver                  | Lovkrav, fx GDPR, kan være en driver for ønsket om en ændring.                                                                                                         |
+| ![](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20B%20(9).png)                          | Et _Princip_ er en formelt besluttet hensigt, der skal realiseres via arkitekturen                                                                                                                               | Principle               | Arkitektur styres på rette niveau efter fælles rammer                                                                                                                  |
+| ![](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20B%20(10).png)                         | En _Vurdering_ er resultatet af en analyse af organisationens situation med hensyn til en _Driver_.                                                                                                              | Assessment              | En risikoanalyse er et eksempel på en vurdering                                                                                                                        |
+| ![](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20B%20(11).png)                         | En _Begrænsning_ er en restriktion i opgaver, information, teknik eller infrastruktur.                                                                                                                           | Constraint              | Brugerrettighedsstyring                                                                                                                                                |
+| ![](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20B%20(12).png)                         | Et _Krav_ repræsenterer et behov, der er udtrykt og forventes opfyldt af arkitekturen.<br><br>Note: Anvendes også til at beskrive væsentlige bindinger givet af lovgivning.                                      | Requirement             | NemID skal anvendes til sikker identifikation af brugere                                                                                                               |
+| ![](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20B%20(13).png)                         | En _Kontrakt_ repræsenterer en formel eller uformel specifikation af en aftale                                                                                                                                   | Contract                | Service Level Agreement                                                                                                                                                |
+| ![](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20B%20(14).png)                         | En _Aktør_ er en entitet, der er i stand til at handle                                                                                                                                                           | Business Actor          | Borger                                                                                                                                                                 |
+| ![](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20B%20(15).png)                         | En _Forretningsfunktion_ er en samling af handlemåder baseret på et specifikt sæt af kriterier, i tæt forbindelse til en organisation, men ikke nødvendigvis eksplicit underlagt styring fra denne organisation. | Business Function       | Beregning af løn                                                                                                                                                       |
+| ![](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20B%20(16).png)                         | En _Forretningsinteraktion_ er en handling, der involverer to eller flere roller.                                                                                                                                | Business Interaction    | Alarmcentral sender ambulance til ulykkessted.                                                                                                                         |
+| ![](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20B%20(17).png)                         | Et _Forretningsinterface_ er et adgangspunkt til en Forretningsservice, der gør den tilgængelig for omgivelserne                                                                                                 | Business Interface      | Borger.dk                                                                                                                                                              |
+| ![](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20B%20(18).png)                         | Et _Forretningssamarbejde_ er et koordineret sæt af handlinger, der gennemføres i samarbejde mellem to eller flere roller...                                                                                     | Business Collaboration  | Rejseafregning                                                                                                                                                         |
+| ![](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20B%20(19).png)                         | En _Forretningsservice_ repræsenterer en eksplicit defineret og udstillet forretningsmæssig adfærd                                                                                                               | Business Service        | Anmeld flytning                                                                                                                                                        |
+| ![](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20B%20(20).png)                         | En _Hændelse_ angiver et skift i en (organisatorisk) tilstand. Årsag og konsekvenser kan være interne, eksterne eller en kombination.                                                                            | Business Event          | Patient udskrives                                                                                                                                                      |
+| ![](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20B%20(21).png)                         | En _Proces_ repræsenterer en sekvens af handlinger                                                                                                                                                               | Business Process        | Ændring af folkeregister-adresse                                                                                                                                       |
+| ![](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20B%20(22).png)                         | En _Rolle_ er det ansvar for at gennemføre en specifik handling, som en aktør kan tildeles, eller den del af en bestemt handling eller hændelse som en aktør spiller                                             | Business Role           | Bruger af offentlig service                                                                                                                                            |
+| ![](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20B%20(23).png)                         | Et _Forretningsobjekt_ repræsenterer et objekt, der anvendes i et specifikt forretningsdomæne                                                                                                                    | Business Object         | Recept                                                                                                                                                                 |
+| ![](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20B%20(24).png)                         | En _Repræsentation_ udgør en forståelig form af den information som et forretningsobjekt eller dataobjekt indeholder                                                                                             | Representation          | Dokument, SMS                                                                                                                                                          |
+| ![](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20B%20(25).png)                         | _Dataobjekt_ er information lagret med henblik på (gen)anvendelse og repræsenterer et dataobjekt, der er struktureret, så det kan processeres automatisk                                                         | Data Object             | Personnummer                                                                                                                                                           |
+| ![](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20B%20(26).png)                         | Et _Applikationsinterface_ repræsenterer et adgangspunkt, hvor applikationsservices er tilgængelige.                                                                                                             | Application Interface   | Personbrugervendt HTML5 eller maskinvendt API                                                                                                                          |
+| ![](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20B%20(27).png)                         | En _Applikationssinteraktion_ beskriver den handling der gennemføres i integrationen imellem to komponenter                                                                                                      | Application Interaction | Modtag Digital Post                                                                                                                                                    |
+| ![](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20B%20(28).png)                         | En _Applikationsservice_ repræsenterer en eksplicit defineret og udstillet applikationstjeneste                                                                                                                  | Application Service     | Digital postkasse                                                                                                                                                      |
+| ![](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20B%20(29).png)                         | En _Applikationsfunktion_ repræsenterer en automatiseret handling, der udføres af en komponent                                                                                                                   | Application Function    | Vis Indbakke                                                                                                                                                           |
+| ![](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20B%20(30).png)                         | En _Komponent_ repræsenterer en samling af applikationsfunktionalitet koblet til en implementeringsstruktur, der er modulopbygget og udskiftelig                                                                 | Application Component   | ESDH-system                                                                                                                                                            |
+| ![](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20B%20(31).png)                         | En _Node_ er en beregningsmæssig eller fysisk ressource, der er host for, manipulerer eller interagerer med andre beregningsmæssige eller fysiske ressourcer.                                                    | Node                    | En node kan fx være et device og/eller systemsoftware, fx en server                                                                                                    |
+| ![](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20B%20(32).png)                         | Et _Device_ er en fysisk it-ressource, hvorpå system software og artefakter kan være lagret eller implementeret til udførelse.                                                                                   | Device                  | En database eller en server                                                                                                                                            |
+| ![](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20B%20(33).png)                         | Et _Teknisk interface_ er et adgangspunkt til en _Tekniske service_.                                                                                                                                             |                         |                                                                                                                                                                        |
+| ![](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20B%20(34).png)                         | En _Teknisk service_ repræsenterer en eksplicit defineret og udstillet teknisk tjeneste                                                                                                                          | Technical Component     | Beskedfordeler                                                                                                                                                         |
+| ![](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20B%20(35).png)                         | Et _Netværk_ forbinder systemer eller andre elektroniske enheder til transmission, routing eller modtagelse af data eller databaseret kommunikation, som fx lyd og video.                                        | Communication Network   | LAN                                                                                                                                                                    |
+| ![](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20B%20(36).png)                         | _Systemsoftware_ er software, der leverer eller bidrager til et miljø til at opbevare, udføre og bruge software eller data i systemet.                                                                           | System Software         | Konkrete systemapplikationer, som fx henter data fra en database                                                                                                       |
 
 Nedenfor vises ArchiMate-elementerne, som kan anvendes som byggeblokke, i forhold til de otte FDA -reolhylder.
 
-![Archimateelementernes relation til FDA-perspektiverne](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20B.png)
+![](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20B.png)
 
 ## Appendiks C: ArchiMate-relationer
 
 Nedenstående liste viser de mulige typer af relationer i ArchiMate. For yderligere information se: [http://pubs.opengroup.org/architecture/archimate3-doc/chap05.html](http://pubs.opengroup.org/architecture/archimate3-doc/chap05.html)
 
-![Archimaterelationer](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20C.png)
+
+
+![Figur Appendiks C.png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20C.png)
 
 ## Appendiks D: ArchiMate-metamodel
 
 Nedenstående figur viser de vigtigste relationer mellem adfærds- og strukturelementer. For yderligere information se: [http://pubs.opengroup.org/architecture/archimate3-doc/chap04.html](http://pubs.opengroup.org/architecture/archimate3-doc/chap04.html)
 
-![](https://pubs.opengroup.org/architecture/archimate3-doc/ts_archimate_3.1-final_files/image006.png)
+
 
 ## Appendiks E: Fiktivcase – Styrelsen for klagesager
 
@@ -1576,7 +1682,7 @@ Styrelsen for klagesager står over for en fornyelse af it-platformen, samtidig 
 
 Herunder er illustreret en eksempelvisning på styrelsens baselinearkitektur.
 
-![Baselinearkitektureksempel Styrelsen for klagesager](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/Figur%20Appendiks%20E.png)
+![](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Appendiks\Figur%20Appendiks%20E.png)
 
 ## Appendiks F: Værktøjer
 
