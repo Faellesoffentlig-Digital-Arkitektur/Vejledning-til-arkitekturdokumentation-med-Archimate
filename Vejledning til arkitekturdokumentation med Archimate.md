@@ -152,7 +152,7 @@ Figur 10: Eksempel på brug af ArchiMate med relationer i en målarkitektur
 
 Selvom FDA-reolen, med de otte grundperspektiver, og ArchiMate-rammeværket er to forskellige måder at strukturere ”verden” på, kan de to strukturer sammenstilles.
 
-![Figur (11).svg](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(11).svg)
+![Figur11_Sammenstilling_af_FDA_reol_og_ArchiMate_rammevaerket.svg](assets/Figur11_Sammenstilling_af_FDA_reol_og_ArchiMate_rammevaerket.svg)
 
 Figur 11: Sammenstilling af FDA-reol og ArchiMate-rammeværket
 
@@ -188,9 +188,9 @@ FDA-byggeblokkataloget foreligger primo 2019 i form af et udkast version 0.5. De
 
 #### To typer byggeblokke – ABB og LBB
 
-Byggeblokke (BB) er alle (potentielt) genbrugelige elementer i arkitekturen og kan findes indenfor både forretning og it. Der skelnes mellem arkitekturbyggeblokke (ABB) og løsningsbyggeblokke (LBB). En ABB er abstrakt og specificerer mere eller mindre detaljeret en byggeblok uden at blive for konkret omkring specifikke produkter eller leverandører. En LBB er omvendt et udtryk for konkrete valg, fx af kommercielle eller egenudviklede produkter og services. Når der modelleres, kan det dog være nyttigt at skelne mellem de to typer byggeblokke. Figur 12illustrerer sammenhængen mellem de to typer byggeblokke: Kontekst og krav, fx i forhold til integration til eksisterende systemer, er styrende for de ABB’er der skal indgå i arkitekturen. ABB’er er specifikationer, som guider og understøtter valg og udvikling af de LBB’er som udgør den konkrete løsning. LBB’er bliver selv til (ny) kontekst, når de vælges og implementeres.
+Byggeblokke (BB) er alle (potentielt) genbrugelige elementer i arkitekturen og kan findes indenfor både forretning og it. Der skelnes mellem arkitekturbyggeblokke (ABB) og løsningsbyggeblokke (LBB). En ABB er abstrakt og specificerer mere eller mindre detaljeret en byggeblok uden at blive for konkret omkring specifikke produkter eller leverandører. En LBB er omvendt et udtryk for konkrete valg, fx af kommercielle eller egenudviklede produkter og services. Når der modelleres, kan det dog være nyttigt at skelne mellem de to typer byggeblokke. Figur 12 illustrerer sammenhængen mellem de to typer byggeblokke: Kontekst og krav, fx i forhold til integration til eksisterende systemer, er styrende for de ABB’er der skal indgå i arkitekturen. ABB’er er specifikationer, som guider og understøtter valg og udvikling af de LBB’er som udgør den konkrete løsning. LBB’er bliver selv til (ny) kontekst, når de vælges og implementeres.
 
-![Figur (12).svg](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(12).svg)
+![Figur12_Sammenhænge_mellem_ABB_og_LBB.svg](assets/Figur12_Sammenhænge_mellem_ABB_og_LBB.svg)
 
 Figur 12: Sammenhænge mellem ABB og LBB
 
@@ -529,7 +529,7 @@ Principper er vigtige til styring af centrale kvaliteter ved løsningen. derfor 
 
 På baggrund af casen om den fiktive styrelse, er der givet nedenstående eksempel på hvorledes arkitekturproduktet arkitekturprincipper kan se ud.
 
-![Figur (30).svg](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(30).svg)
+![Figur30_Simpel_visning_af_arkitekturprincipper.svg](Figur30_Simpel_visning_af_arkitekturprincipper.svg)
 
 Figur 30: Simpel visning af arkitekturprincipper
 
@@ -537,7 +537,7 @@ Figur 30: Simpel visning af arkitekturprincipper
 
 Nedenstående eksempel viser et udkast til udvalgte løsningsspecifikke principper for en løsning, der skal kunne vise overblik over sager og ydelser til borgere (S&Y). Det er et uddrag af en simpel visning, hvor principperne er ordnet i nogle få hovedgrupper. Her er vist den gruppe, der indeholder principper for it-løsninger, der skal kunne udstille overbliksfunktionalitet. Det er fx en portal som borger.dk eller en kommunal hjemmeside.
 
-![Figur (31).svg](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(31).svg)
+![Figur31_Eksempel_på_arkitekturprincipper.svg](assets/Figur31_Eksempel_på_arkitekturprincipper.svg)
 
  Figur 31: Eksempel på arkitekturprincipper
 
@@ -637,7 +637,7 @@ Nedenstående eksempel viser et udkast til et overordnet konceptuelt roadmap for
 
 Eksemplet viser et en række detaljer i den tekniske arkitektur med fokus på applikationskomponenter, services og interfaces. Formålet er at illustrere, at der over tid – afhængigt af ambitionsniveau – kan ske en modning af de tværgående guider i forhold til at understøtte en integreret brugerrejse. Samtidig viser eksemplet, at der i takt med dette, åbnes mulighed for at flytte ansvar mellem forskellige applikationer og for at udfase elementer i arkitekturen.
 
-![Figur (37).svg](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(37).svg)
+![Figur37_Eksempel_på_migreringsstrategi.svg](assets/Figur37_Eksempel_på_migreringsstrategi.svg)
 
 Figur 37: Eksempel på migreringsstrategi
 
@@ -1273,7 +1273,7 @@ Nedenstående eksempel fra HIP-projektet viser et overblik over komponenter, ser
 
 Fokus i denne visning er bl.a. at give et overblik over de mange eksterne services.
 
-![Figur (84).svg](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(84).svg)
+![Figur84_Eksempel_på_applikationslandskab_med_integrationer_fra_HIP-projektet.svg](assets/Figur84_Eksempel_på_applikationslandskab_med_integrationer_fra_HIP-projektet.svg)
 
 Figur 84: Eksempel på applikationslandskab med integrationer fra HIP-projektet
 
