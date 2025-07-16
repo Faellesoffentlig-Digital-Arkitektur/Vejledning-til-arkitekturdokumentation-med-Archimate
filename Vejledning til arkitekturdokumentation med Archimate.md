@@ -80,7 +80,7 @@ Figur 2: ArchiMate-rammeværket
 
 ArchiMate-rammeværket indeholder derfor elementer som ”hører” hjemme på hver sit lag og aspekt. Nedenfor er vist et par eksempler på elementer i standarden.
 
-![Figur (3).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(3).png)
+![Figur3_Eksempel_på_elementer_i_ArchiMate_rammeværket.png](assets/Figur3_Eksempel_på_elementer_i_ArchiMate_rammeværket.png)
 
 Figur 3: Eksempel på elementer i ArchiMate-rammeværket
 
@@ -92,19 +92,19 @@ En central del af standarden er relationerne, som binder elementerne sammen. Rel
 
 Figur 4illustrerer et eksempel på anvendelse af den indlejrede relation mellem elementer i _Business_\-laget. Diagrammet viser hvilke processer, som en given forretningsaktør (_Organisation_) har et tilhørsforhold til. Hvorvidt _Organisationen_ er ansvarlig for udførelsen af processerne eller har et andet tilhørsforhold viser figuren ikke. Der kan dog sagtens ligge en særlig betydning bag den indlejrede relation, som blot ikke afspejles i visningen, men som er til stede, hvis man går ned i modellens detaljer.
 
-![Figur (4).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(4).png)
+![Figur4_Eksempel_på_indlejret_relation.png](assets/Figur4_Eksempel_på_indlejret_relation.png)
 
 Figur 4: Eksempel på indlejret relation
 
 En anden måde at vise ovenstående sammenhæng på kan være ved at anvende relationen _Association_, som vist i Figur 5. Her er tilhørsforholdet i visningen udspecificeret en smule, men forståelse af at være associeret er stadig abstrakt og kan have flere betydninger. Det kan dog i mange tilfælde være tilstrækkeligt at modellere en relation med en _Association-_relation, fx fordi man ikke kender den eksakte relation mellem elementerne eller fordi man ønsker at holde visningen enkel for læseren.
 
-![Figur (5).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(5).png)
+![Figur5_Eksempel_på_brug_af_direkte_relation_association.png](assets/Figur5_Eksempel_på_brug_af_direkte_relation_association.png)
 
 Figur 5: Eksempel på brug af direkte relation (association)
 
 Hvis en mere specifik relation anvendes, vil forståelse af modellen blive mere præcis. Figur 6illustrerer at aktøren _Organisation_ er tildelt (_assigned to_) processerne _Indsamle data_ og _Bearbejde data_, mens processen _Udstille data_ tjener (s_erves_) aktøren _Organisation_. Med andre ord er aktøren _Organisation_ ansvarlig for at indsamle og bearbejde data, men ikke for at udstille data. Processen _Udstille data_ bliver givetvis udført af en anden aktør, men det siger visningen ikke direkte.
 
-![Figur (6).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(6).png)
+![Figur6_Eksempel_på_brug_af_direkte_relation_med_forskellig_betydning.png](assets/Figur6_Eksempel_på_brug_af_direkte_relation_med_forskellig_betydning.png)
 
 Figur 6: Eksempel på brug af direkte relation med forskellig betydning
 
@@ -118,7 +118,7 @@ Der er, som det ses i Figur 6, kun små forskelle på hvordan de forskellige typ
 
 Gruppering kan lette læsningen og forståelsen af en visning. Brug gruppering til logisk at samle elementer, som har samme karakteristik, som vist i Figur 7.
 
-![Figur (7).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(7).png)
+![Figur7_Gruppering_af_forretningsprocesser.png](assets/Figur7_Gruppering_af_forretningsprocesser.png)
 
 Figur 7: Gruppering af forretningsprocesser
 
@@ -126,13 +126,13 @@ Gruppering kan fx anvendes til beskrive en sammensat ABB eller LBB.
 
 Det er også muligt at indlejre elementer i en elementtype, som vist i Figur 8.
 
-![Figur (8).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(8).png)
+![Figur8_Indlejring_i_et_element_af_samme_type.png](assets/Figur8_Indlejring_i_et_element_af_samme_type.png)
 
 Figur 8: Indlejring i et element af samme type
 
 Brug kun indlejring i en specifik elementtype, hvis det giver logisk mening, som i ovenstående eksempel, hvor Data Management Processen er vist som hovedproces, med tre underordnede processer. Eller i eksemplet i Figur 9, hvor processerne indlejres i _Data Management-funktionen_.
 
-![Figur (9).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(9).png)
+![Figur9_Indlejring_i_et_element_af_en_anden_type.png](assets/Figur9_Indlejring_i_et_element_af_en_anden_type.png)
 
 Figur 9: Indlejring i et element af en anden type
 
@@ -144,7 +144,7 @@ Indlejring kan give særlig god mening for _plateau_ og _location_ elementerne, 
 
 Det er væsentligt at bemærke, at ArchiMate-rammeværkets lag og aspekter blot anvendes som en mekanisme til at strukturere elementtyperne. Elementerne kan relateres på tværs af de forskellige lag og aspekter. Dette er illustreret i Figur 10, der viser et eksempel på anvendelsen af elementer fra flere lag og aspekter. Her vises fx at _Business_\-laget (de gule elementer) kan beskrive en forretningsservice (Sagsbehandlingsydelse), som realiseres i organisationen ved hjælp af en forretningsrolle (Sagsbehandler) og en forretningsproces (Vurderingsproces). Fra _Application_\-laget (det turkise) og _Technology_\-laget (det grønne) vises en applikationsproces (ESDH-system), som realiseres af en applikationskomponent (RPA-komponent), understøttet af en teknisk service (RPA-service). Sagsbehandlingsydelsen og ESDH-systemet er med til at realisere en kapabilitet (Automatiseret sagsbehandling), som er en del af et plateau (Målarkitektur 2020). Kapabiliteten realiserer en handlingsplan (Vejen mod færre klager), som er associeret til et princip (Tænk automatisering ind i processen). Handlingsplanen realiserer en gevinst (Færre klagesager), som realiserer et mål (Færre fejl). Endelig er målet influeret af en driver (Højere kvalitet).
 
-![Figur (10).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(10).png)
+![Figur10__Eksempel_på_brug_af_ArchiMate_med_relationer_i_en_målarkitektur.png](assets/Figur10__Eksempel_på_brug_af_ArchiMate_med_relationer_i_en_målarkitektur.png)
 
 Figur 10: Eksempel på brug af ArchiMate med relationer i en målarkitektur
 
