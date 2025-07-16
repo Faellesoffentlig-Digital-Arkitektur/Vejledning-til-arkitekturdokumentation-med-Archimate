@@ -1156,7 +1156,7 @@ Kortlægningen kan både bygge på og støtte den dokumentation man som myndighe
 
 På baggrund af casen om den fiktive styrelse, er der givet nedenstående to eksempler på hvorledes arkitekturproduktet datasæt kan se ud.
 
-![Figur74_Simpel_visning_af_datasæt.png](assets/Figur74_Simpel_visning_af_datasaet.png)
+![Figur74_Simpel_visning_af_datasæt.png](assets/Figur74_Simpel_visning_af_datasæt.png)
 
 Figur 74: Simpel visning af datasæt
 
