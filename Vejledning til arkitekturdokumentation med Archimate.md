@@ -1160,7 +1160,7 @@ På baggrund af casen om den fiktive styrelse, er der givet nedenstående to eks
 
 Figur 74: Simpel visning af datasæt
 
-![Figur75](assets/Figur75_Udividet_visning_af_datasæt.png)
+![Figur75_Udivdet_visning_af_datasæt.png](assets/Figur75_Udvidet_visning_af_datasæt.png)
 
 Figur 75: Udvidet visning af datasæt
 
