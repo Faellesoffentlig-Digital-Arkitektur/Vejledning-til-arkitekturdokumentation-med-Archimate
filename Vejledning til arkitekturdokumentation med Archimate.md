@@ -48,7 +48,7 @@ For at opnå den nødvendige kvalitet i dokumentation af arkitekturen, kræves d
 
 Denne vejledning udspringer af Hvidbogens arkitekturregler 1.3 om anvendelse af fælles ramme for beskrivelse af arkitektur, og herunder mere specifikt _Retningslinjer for formidling og dokumentation af arkitektur i digitaliseringsprojekter_ (i det følgende benævnt [_Retningslinjer om arkitekturdokumentation_](/node/563)), på lige fod med en række andre vejledninger og regler for begrebs- og datamodellering (se Figur 1).
 
-![Figur (1).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(1).png)
+![Figur1_Sammenhæng_mellem_tre_af_hvidbogens_arkitekturregler_til_side_og_underordnede_dokumenter.png](assets/Figur1_Sammenhæng_mellem_tre_af_hvidbogens_arkitekturregler_til_side_og_underordnede_dokumenter.png)
 
 Figur 1: Sammenhæng mellem tre af hvidbogens arkitekturregler til side og underordnede dokumenter
 
@@ -72,7 +72,7 @@ ArchiMate giver som modelleringssprog en ensartet repræsentation af diagrammer,
 
 ArchiMate beskriver og visualiserer forskellige arkitekturdomæner. Sprogets elementer er struktureret i seks lag og fire aspekter, som er forbundet med relationer (kaldet _relationships_). Figur 2viser et overblik over ArchiMate-rammeværket. Alle ArchiMate-elementer er knyttet til et af lagene (_Strategy_, _Business_, _Application_ etc.) og til et af de tre aspekter Passiv struktur, Adfærd og Aktiv struktur. Hertil kommer en række elementer, som hører til det fjerde aspekt kaldet _Motivation_, og som ikke hører til nogen af de seks lag.
 
-![Figur (2).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(2).png)
+![Figur2_ArchiMate_rammeværket.png](assets/Figur2_ArchiMate_rammeværket.png)
 
 Figur 2: ArchiMate-rammeværket
 
