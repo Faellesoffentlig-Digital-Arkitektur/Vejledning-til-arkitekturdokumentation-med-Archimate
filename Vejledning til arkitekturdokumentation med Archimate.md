@@ -1128,7 +1128,7 @@ Figur 72: Udvidet visning af centrale forretningsobjekter
 
 Nedenstående eksempel fra S&Y-projektet viser en et udsnit af en skitse til en overordnet kortlægning af udvalgte forretningsobjekter, som er relevante i forhold til at skabe et borgervendt overblik over sager og ydelser. Forretningsobjekterne er grupperet. Nogle vedrører selve sags- og ydelsesoverblikket, nogle vedrører en selvbetjeningskontekst, hvor de skal vises, og nogle viser forskellige objekter, der kan anvendes til at kommunikere meddelelser i relation til disse sager og ydelser.
 
-![Figur73_Eksempel_på_centrale_forretningsobjekter_fra_S&Y_projektet.png](assets/Figur73_Eksempel_på_centrale_forretningsobjekter_fra_S&Y_projektet.png)
+![Figur73_Eksempel_på_centrale_forretningsobjekter_fra_S&Y_projektet.svg](assets/Figur73_Eksempel_på_centrale_forretningsobjekter_fra_S&Y_projektet.svg)
 
 Figur 73: Eksempel på centrale forretningsobjekter fra S&Y-projektet
 
