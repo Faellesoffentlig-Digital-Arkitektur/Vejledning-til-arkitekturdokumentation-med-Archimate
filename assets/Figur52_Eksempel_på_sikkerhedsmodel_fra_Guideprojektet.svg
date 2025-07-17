@@ -25,8 +25,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.97548401"
-     inkscape:cx="396.72614"
-     inkscape:cy="479.24927"
+     inkscape:cx="396.72613"
+     inkscape:cy="643.27041"
      inkscape:window-width="3440"
      inkscape:window-height="1334"
      inkscape:window-x="-11"
@@ -36,7 +36,13 @@
      id="defs1" /><g
      inkscape:label="Lag 1"
      inkscape:groupmode="layer"
-     id="layer1"><image
+     id="layer1"><rect
+       style="fill:#ffffff;stroke-width:0.25;stroke-linecap:round;paint-order:markers stroke fill"
+       id="rect1"
+       width="212.64656"
+       height="301.06848"
+       x="-0.81369859"
+       y="-1.6273972" /><image
        width="190.50523"
        height="281.99789"
        preserveAspectRatio="none"
