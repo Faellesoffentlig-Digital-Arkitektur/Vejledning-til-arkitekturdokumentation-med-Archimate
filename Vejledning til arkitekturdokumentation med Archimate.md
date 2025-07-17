@@ -529,7 +529,7 @@ Principper er vigtige til styring af centrale kvaliteter ved løsningen. derfor 
 
 På baggrund af casen om den fiktive styrelse, er der givet nedenstående eksempel på hvorledes arkitekturproduktet arkitekturprincipper kan se ud.
 
-![Figur30_Simpel_visning_af_arkitekturprincipper.svg](Figur30_Simpel_visning_af_arkitekturprincipper.svg)
+![Figur30_Simpel_visning_af_arkitekturprincipper.svg](assets/Figur30_Simpel_visning_af_arkitekturprincipper.svg)
 
 Figur 30: Simpel visning af arkitekturprincipper
 
