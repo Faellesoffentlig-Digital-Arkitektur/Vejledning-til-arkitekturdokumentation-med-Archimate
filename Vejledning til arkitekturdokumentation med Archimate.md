@@ -1128,7 +1128,7 @@ Figur 72: Udvidet visning af centrale forretningsobjekter
 
 Nedenstående eksempel fra S&Y-projektet viser en et udsnit af en skitse til en overordnet kortlægning af udvalgte forretningsobjekter, som er relevante i forhold til at skabe et borgervendt overblik over sager og ydelser. Forretningsobjekterne er grupperet. Nogle vedrører selve sags- og ydelsesoverblikket, nogle vedrører en selvbetjeningskontekst, hvor de skal vises, og nogle viser forskellige objekter, der kan anvendes til at kommunikere meddelelser i relation til disse sager og ydelser.
 
-![Figur (73).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(73).png)
+![Figur73_Eksempel_på_centrale_forretningsobjekter_fra_S&Y_projektet.png](assets/Figur73_Eksempel_på_centrale_forretningsobjekter_fra_S&Y_projektet.png)
 
 Figur 73: Eksempel på centrale forretningsobjekter fra S&Y-projektet
 
@@ -1168,7 +1168,7 @@ Figur 75: Udvidet visning af datasæt
 
 Nedenstående eksempel fra PULS-projektet viser at der er fire datasæt og fire centrale repræsentationer, som skal indgå i løsningsarkitekturen. Dette har fx betydning for krav til udarbejdelse af både tekniske snitflader og brugergrænseflader.
 
-![Figur (76).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(76).png)
+![Figur76_Eksempel_på_datasæt_fra_PULS_projektet.png](assets/Figur76_Eksempel_på_datasæt_fra_PULS_projektet.png)
 
 Figur 76: Eksempel på datasæt fra PULS-projektet
 
@@ -1180,13 +1180,13 @@ Applikationsperspektivet har fokus på applikationskomponenter og services, der 
 
 ArchiMate-elementer, som ofte anvendes i relation til arkitekturprodukter i Applikation-perspektivet, er vist i nedenstående figur.
 
-![Figur (77).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(77).png)
+![Figur77_Elementer_i_grundperspektivet_Applikation.png](assets/Figur77_Elementer_i_grundperspektivet_Applikation.png)
 
 Figur 77: Elementer i grundperspektivet Applikation
 
 Nedenstående figur illustrerer udvalgte relationer mellem elementerne.
 
-![Figur (78).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(78).png)
+![Figur78_Elementer_og_relationer_i_grundperspektivet_Applikation.png](assets/Figur78_Elementer_og_relationer_i_grundperspektivet_Applikation.png)
 
 Figur 78: Elementer og relationer i grundperspektivet Applikation
 
@@ -1219,11 +1219,11 @@ Formålet er at give interessenterne - særligt løsningsarkitekter - et overbli
 
 På baggrund af casen om den fiktive styrelse, er der givet nedenstående to eksempler på hvorledes arkitekturproduktet systemlandskab kan se ud.
 
-![Figur (79).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(79).png)
+![Figur79_Simpel_visning_af_Systemlandskab.png](assets/Figur79_Simpel_visning_af_Systemlandskab.png)
 
 Figur 79: Simpel visning af Systemlandskab
 
-![Figur (80).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(80).png)
+![Figur80_Udvidet_visning_af_Systemlandskab.png](assets/Figur80_Udvidet_visning_af_Systemlandskab.png)
 
 Figur 80: Udvidet visning af Systemlandskab
 
@@ -1233,13 +1233,13 @@ Nedenstående eksempel fra NGDP giver et overblik over de centrale komponenter, 
 
 Desuden er den centrale _applikationsinteraktion_ “Modtag enkelt meddelelse” taget med. Applikationsfunktioner er ikke beskrevet nærmere, hvilket her er synliggjort med en pladsholder i form af det abstrakte _applikationsfunktions_\-element.
 
-![Figur (81).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(81).png)
+![Figur81_Eksempel_på_Systemlandskab_fra_NGDP_projektet.png](assets/Figur81_Eksempel_på_Systemlandskab_fra_NGDP_projektet.png)
 
 Figur 81: Eksempel på Systemlandskab fra NGDP-projektet
 
 Nedenfor er samme visning videreudviklet en smule. Her vises de centrale services i to grupper for henholdsvis meddelelseshåndtering og kontakthåndtering. De er relateret, så det bliver tydeligere hvilken funktionalitet der skal understøttes, og hvilken (processuel) sammenhæng der er mellem dem.
 
-![Figur (82).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(82).png)
+![Figur82_Eksempel_på_Systemlandskab_udvidet_fra_NGDP_projektet.png](assets/Figur82_Eksempel_på_Systemlandskab_udvidet_fra_NGDP_projektet.png)
 
 Figur 82: Eksempel på Systemlandskab (udvidet) fra NGDP-projektet
 
@@ -1263,7 +1263,7 @@ Denne visning kan anvendes til at få overblik over integrationer relateret til 
 
 På baggrund af casen om den fiktive styrelse, er der givet nedenstående eksempel på hvorledes arkitekturproduktet applikationslandskab med integrationer kan se ud.
 
-![Figur (83).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(83).png)
+![Figur83_Udvidet_visning_af_applikationslandskab_med_integrationer.png](assets/Figur83_Udvidet_visning_af_applikationslandskab_med_integrationer.png)
 
 Figur 83: Udvidet visning af applikationslandskab med integrationer
 
@@ -1285,13 +1285,13 @@ Infrastrukturperspektivet har fokus på teknologiservices, som leverer den gener
 
 ArchiMate-elementer, som ofte anvendes i relation til arkitekturprodukter i infrastrukturperspektivet, er vist i nedenstående figur.
 
-![Figur (85).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(85).png)
+![Figur85_Elementer_i_grundperspektivet_Infrastruktur.png](assets/Figur85_Elementer_i_grundperspektivet_Infrastruktur.png)
 
 Figur 85: Elementer i grundperspektivet Infrastruktur
 
 Nedenstående figur illustrerer udvalgte relationer mellem elementerne.
 
-![Figur (86).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(86).png)
+![Figur86_Elementer_og_relationer_i_grundperspektivet_Infrastruktur.png](assets/Figur86_Elementer_og_relationer_i_grundperspektivet_Infrastruktur.png)
 
 Figur 86: Elementer og relationer i grundperspektivet Infrastruktur
 
@@ -1324,7 +1324,7 @@ På baggrund af casen om den fiktive styrelse, er der givet nedenstående eksemp
 
 Eksemplet viser at klagesystemet understøttes af to tekniske services, en beregningsmotor (implementeret på mainframe) og en applikation (implementeret på windows-server). Både mainframe og windows-server er fysisk placeret i Odense, hvor styrelsen har til huse. ESDH-systemet er derimod hostet eksternt af en hosting-leverandør. Her er det en Unix-server, som understøtter ESDH-systemet.
 
-![Figur (87).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(87).png)
+![Figur87__Udvidet_visning_af_infrastrukturlandskab.png](assets/Figur87__Udvidet_visning_af_infrastrukturlandskab.png)
 
 Figur 87: Udvidet visning af infrastrukturlandskab
 
@@ -1332,7 +1332,7 @@ Figur 87: Udvidet visning af infrastrukturlandskab
 
 Nedenstående visning fra GovCloud-projektet viser er infrastrukturlandskabet med fokus på noder, netværk og sikkerhed i henhold til firewall og adgangsstyring.
 
-![Figur (88).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(88).png)
+![Figur88_Eksempel_på_infrastrukturlandskab_fra_GovCloud_projektet.png](assets/Figur88_Eksempel_på_infrastrukturlandskab_fra_GovCloud_projektet.png)
 
 Figur 88: Eksempel på infrastrukturlandskab fra GovCloud-projektet
 
@@ -1340,7 +1340,7 @@ Figur 88: Eksempel på infrastrukturlandskab fra GovCloud-projektet
 
 Nedenstående eksempel fra Region Syd viser et infrastrukturlandskab med fokus på loadbalancing mellem to noder i infrastrukturen og viser det underliggende systemsoftware.
 
-![Figur (89).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(89).png)
+![Figur89_Eksempel_på_infrastrukturlandskab_fra_Region_Syd.png](assets/Figur89_Eksempel_på_infrastrukturlandskab_fra_Region_Syd.png)
 
 Figur 89: Eksempel på infrastrukturlandskab fra Region Syd
 
@@ -1367,7 +1367,7 @@ På baggrund af casen om den fiktive styrelse, er der givet nedenstående eksemp
 
 Eksemplet viser de to centrale noder i Odense, nemlig mainframe, Windows-server samt LAN (netværket) og firewall.
 
-![Figur (90).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(90).png)
+![Figur90_Visning_af_Infrastrukturopsætning.png](assets/Figur90_Visning_af_Infrastrukturopsætning.png)
 
 Figur 90: Visning af infrastrukturopsætning
 
@@ -1375,7 +1375,7 @@ Figur 90: Visning af infrastrukturopsætning
 
 Nedenstående visning fra GovCloud-projektet viser er infrastrukturkonfiguration med fokus på nodernes indhold af systemsoftware, samt relationerne til server og SAN devices.
 
-![Figur (91).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(91).png)
+![Figur91_Eksempel_på_infrastrukturopsætning_fra_GovCloud_projektet.png](assets/Figur91_Eksempel_på_infrastrukturopsætning_fra_GovCloud_projektet.png)
 
 Figur 91: Eksempel på infrastrukturopsætning fra GovCloud-projektet
 
