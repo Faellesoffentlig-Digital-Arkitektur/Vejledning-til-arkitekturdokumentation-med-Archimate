@@ -246,7 +246,7 @@ Vejledningen er hverken udtømmende eller udtryk for formelle krav eller anbefal
 
 De fleste arkitekturprodukter udarbejdes rent procesmæssigt typisk med forskellige grader af iterationer og parallelitet. En række af produkterne udarbejdes som et udgangspunkt/grundlag for andre produkter. Fx er produkterne i de fire grundperspektiver Styring, Strategi, Jura og Sikkerhed tværgående og rammesættende i forhold til de fire resterende grundperspektiver, jf. nedenstående Figur 16. En række arkitekturprodukter indenfor disse fire tværgående grundperspektiver kan dog først dannes og udfoldes i takt med, at der udvikles arkitekturprodukter inden for de fire grundperspektiver _Opgaver_, _Information_, _Applikation_ og _Infrastruktur_.
 
-![Figur16_FDA_arkitekturreolen_illustreret_med_tværgående_grundperspektiver.png](assets/Figur16_FDA_arkitekturreolen_illustreret_med_tværgående_grundperspektiver.png)
+![Figur16_FDA_arkitekturreolen_illustreret_med_tværgående_grundperspektiver.scg](assets/Figur16_FDA_arkitekturreolen_illustreret_med_tværgående_grundperspektiver.svg)
 
 Figur 16: FDA-arkitekturreolen illustreret med tværgående grundperspektiver
 
