@@ -3,13 +3,13 @@
 
 <svg
    width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   height="200mm"
+   viewBox="0 0 210 200"
    version="1.1"
    id="svg1"
    xml:space="preserve"
    inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
-   sodipodi:docname="Figur 1 Sammenhæng mellem arkitekturregler og retningslinjer.svg"
+   sodipodi:docname="Figur1_Sammenhæng_mellem_tre_af_hvidbogens_arkitekturregler_til_side_og_underordnede_dokumenter.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,7 +25,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.97548401"
-     inkscape:cx="396.72614"
+     inkscape:cx="396.72613"
      inkscape:cy="479.24927"
      inkscape:window-width="3440"
      inkscape:window-height="1334"
@@ -36,7 +36,13 @@
      id="defs1" /><g
      inkscape:label="Lag 1"
      inkscape:groupmode="layer"
-     id="layer1"><image
+     id="layer1"><rect
+       style="fill:#ffffff;stroke-width:0.250806;stroke-linecap:round;paint-order:markers stroke fill"
+       id="rect1"
+       width="211.29042"
+       height="202.61095"
+       x="-0.48296216"
+       y="-0.37690818" /><image
        width="201.5444"
        height="188.91866"
        preserveAspectRatio="none"
