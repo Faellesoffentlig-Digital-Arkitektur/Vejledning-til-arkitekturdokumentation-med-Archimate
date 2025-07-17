@@ -210,13 +210,13 @@ Der findes ikke direkte anbefalinger i ArchiMate-specifikationen til hvordan der
 
 Den mest brugbare måde at modellere en relation mellem en ABB og LBB er i mange tilfælde ved brug af _realisering via fysiske elementer_. Det gælder dog kun de nederste lag – applikation og teknologi. Her arbejdes med abstraktion ved at anskue teknologilagets elementer, som de fysiske elementer (LBB) (fx ved anvendelsen af elementerne _artefakt_ og _software_), der realiserer et applikationselement (ABB) i applikationslaget.
 
-![Figur (13).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(13).png)
+![Figur13_Brug_af_realisering.png](assets/Figur13_Brug_af_realisering.png)
 
 Figur 13: Brug af realisering
 
 Det er dog også muligt at anvende specialisering (nedarvning), hvis man har med elementer på de højere liggende lag. Som eksemplet i nedenstående figur viser, er Persondataloven en specialisering af det mere abstrakte element (ABB) Binding Instrument.
 
-![Figur (14).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(14).png)
+![Figur14_Brug_af_specialisering.png](assets/Figur14_Brug_af_specialisering.png)
 
 Figur 14: Brug af specialisering
 
@@ -228,7 +228,7 @@ ArchiMate-specifikationen understøtter begrebet ”profiling”, hvilket giver 
 
 Udover ovenstående måder at anskueliggøre hvorvidt en byggeblok er af typen ABB eller LBB, kan det desuden være gavnligt at tydeliggøre dette i den visuelle fremvisning. Et LBB-element bør derfor have angivet med stereotypen for den aktuelle ABB, fx «ESDH-service» (i lighed med UML-notationen for stereotyper).
 
-![Figur (15).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(15).png)
+![Figur15_Brug_af_sterotyping.png](assets/Figur15_Brug_af_sterotyping.png)
 
 Figur 15: Brug af stereotyping
 
@@ -246,7 +246,7 @@ Vejledningen er hverken udtømmende eller udtryk for formelle krav eller anbefal
 
 De fleste arkitekturprodukter udarbejdes rent procesmæssigt typisk med forskellige grader af iterationer og parallelitet. En række af produkterne udarbejdes som et udgangspunkt/grundlag for andre produkter. Fx er produkterne i de fire grundperspektiver Styring, Strategi, Jura og Sikkerhed tværgående og rammesættende i forhold til de fire resterende grundperspektiver, jf. nedenstående Figur 16. En række arkitekturprodukter indenfor disse fire tværgående grundperspektiver kan dog først dannes og udfoldes i takt med, at der udvikles arkitekturprodukter inden for de fire grundperspektiver _Opgaver_, _Information_, _Applikation_ og _Infrastruktur_.
 
-![Figur (16).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(16).png)
+![Figur16_FDA_arkitekturreolen_illustreret_med_tværgående_grundperspektiver.png](assets/Figur16_FDA_arkitekturreolen_illustreret_med_tværgående_grundperspektiver.png)
 
 Figur 16: FDA-arkitekturreolen illustreret med tværgående grundperspektiver
 
@@ -316,13 +316,13 @@ ArchiMate kan fx anvendes til at give overblik over sammenhænge mellem interess
 
 ArchiMate-elementer, som ofte anvendes i relation til arkitekturprodukter i styring- perspektivet, er vist i nedenstående figur.
 
-![Figur (17).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(17).png)
+![Figur17_Elementer_i_grundperspektivet_Styring.png](assets/Figur17_Elementer_i_grundperspektivet_Styring.png)
 
 Figur 17: Elementer i grundperspektivet Styring
 
 Nedenstående figur illustrerer de udvalgte relationer mellem elementerne.
 
-![Figur (18).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(18).png)
+![Figur18_Elementer_og_relationer_i_grundperspektivet_Styring.png](assets/Figur18_Elementer_og_relationer_i_grundperspektivet_Styring.png)
 
 Figur 18: Elementer og relationer i grundperspektivet Styring
 
@@ -362,13 +362,13 @@ Dette produkt er centralt til identifikation og forståelse af drivere og udford
 
 På baggrund af casen om den fiktive styrelse, er der givet nedenstående to eksempler på hvorledes arkitekturproduktet forretningsmål kan se ud.
 
-![Figur (19).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(19).png)
+![Figur19_Simpel_visning_af_forretningsmål.png](assets/Figur19_Simpel_visning_af_forretningsmål.png)
 
 Figur 19: Simpel visning af forretningsmål
 
 I det udvidede eksempel er der lavet en relation mellem flere af målene, for at vise at der er sammenhæng mellem dem. Der kan derved udledes mere specifikke mål for en eller flere interessenter, som understøttes af et mere generelt mål.
 
-![Figur (20).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(20).png)
+![Figur20_Udvidet_visning_af_forretningsmål.png](assets/Figur20_Udvidet_visning_af_forretningsmål.png)
 
 Figur 20: udvidet visning af forretningsmål
 
@@ -376,7 +376,7 @@ Figur 20: udvidet visning af forretningsmål
 
 Nedenstående simple eksempel er hentet fra NGDP. Det viser de fem overordnede mål, som er styrende for den samlede og endelige løsning, og som alle har implikationer for de valg der gøres i forhold til arkitekturen.
 
-![Figur (21).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(21).png)
+![Figur21_Eksempelpå_forretningsmål_fra_NGDP.png](assets/Figur21_Eksempelpå_forretningsmål_fra_NGDP.png)
 
 Figur 21: Eksempel på forretningsmål fra NGDP
 
@@ -403,13 +403,13 @@ Information kan fx hentes i projektgrundlag og matricer, der beskriver ansvar (j
 
 På baggrund af casen om den fiktive styrelse, er der givet nedenstående to eksempler på hvorledes arkitekturproduktet governancemodel kan se ud.
 
-![Figur (22).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(22).png)
+![Figur22_Simpel_visning_af_governancemodel22.png](assets/Figur22_Simpel_visning_af_governancemodel22.png)
 
 Figur 22: Simpel visning af governancemodel
 
 Det udvidede eksempel er tilføjet relationer mellem hvem og hvad der udøves governance over, samt de rammesættende forhold i forhold til projektet for fornyelse af it-platformen.
 
-![Figur (23).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(23).png)
+![Figur23_Udvidet_visning_af_governancemodel.png](assets/Figur23_Udvidet_visning_af_governancemodel.png)
 
 Figur 23: udvidet visning af governancemodel
 
@@ -419,7 +419,7 @@ Nedenstående eksempel er hentet fra PULS projektet. Grupperingen “Organizatio
 
 Det samlede overblik sætter dette i sammenhæng med referencer til de overordnede strategiske kapabiliteter, mål og principper, samt til juridiske rammer. desuden viser overblikket de to centrale elementer governance vedrører, nemlig datasæt og teknisk løsningskomponent.
 
-![Figur (24).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(24).png)
+![Figur24_Eksempel_på_governancemodel_fra_PULS_projektet.png](assets/Figur24_Eksempel_på_governancemodel_fra_PULS_projektet.png)
 
 Figur 24: Eksempel på governancemodel fra PULS projektet
 
@@ -454,7 +454,7 @@ Følgende interessenter er identificeret:
 * Sagsbehandleren, som behandler klagesagerne og ikke vil overbebyrdes med sager
 * Styrelsen, som ønsker at så effektiv klageproces som muligt og hurtige afgørelser
 
-![Figur (25).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(25).png)
+![Figur25_Simpel_visning_af_interessentanalyse.png](assets/Figur25_Simpel_visning_af_interessentanalyse.png)
 
 Figur 25: Simpel visning af interessentanalyse
 
