@@ -246,7 +246,7 @@ Vejledningen er hverken udtømmende eller udtryk for formelle krav eller anbefal
 
 De fleste arkitekturprodukter udarbejdes rent procesmæssigt typisk med forskellige grader af iterationer og parallelitet. En række af produkterne udarbejdes som et udgangspunkt/grundlag for andre produkter. Fx er produkterne i de fire grundperspektiver Styring, Strategi, Jura og Sikkerhed tværgående og rammesættende i forhold til de fire resterende grundperspektiver, jf. nedenstående Figur 16. En række arkitekturprodukter indenfor disse fire tværgående grundperspektiver kan dog først dannes og udfoldes i takt med, at der udvikles arkitekturprodukter inden for de fire grundperspektiver _Opgaver_, _Information_, _Applikation_ og _Infrastruktur_.
 
-![Figur16_FDA_arkitekturreolen_illustreret_med_tværgående_grundperspektiver.scg](assets/Figur16_FDA_arkitekturreolen_illustreret_med_tværgående_grundperspektiver.svg)
+![Figur16_FDA_arkitekturreolen_illustreret_med_tværgående_grundperspektiver.svg](assets/Figur16_FDA_arkitekturreolen_illustreret_med_tværgående_grundperspektiver.svg)
 
 Figur 16: FDA-arkitekturreolen illustreret med tværgående grundperspektiver
 
@@ -836,7 +836,7 @@ Nedenstående eksempel fra Guide-projektet viser, at der er flere sikkerhedsdom�
 
 I denne visning er der fokus på applikationslandskabet med de vigtigste komponenter, services og snitflader samt de centrale forretningsobjekter knyttet til tværgående rettighedsstyring. I denne visning er det centrale punkt for systemintegration mellem orkestreringskomponenten og underliggende databærende systemer fremhævet med brug af elementet _softwareinteraktion_.
 
-![Figur52_Eksempel_på_sikkerhedsmodel_fra_Guideprojektet.png](assets/Figur52_Eksempel_på_sikkerhedsmodel_fra_Guideprojektet.png)
+![Figur52_Eksempel_på_sikkerhedsmodel_fra_Guideprojektet.svg](assets/Figur52_Eksempel_på_sikkerhedsmodel_fra_Guideprojektet.svg)
 
 Figur 52: Eksempel på sikkerhedsmodel fra Guide-projektet
 
