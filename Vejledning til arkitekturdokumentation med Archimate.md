@@ -665,7 +665,7 @@ Figur 39: Elementer i grundperspektivet Jura
 
 Nedenstående figur illustrerer de tilladte relationer mellem elementerne.
 
-![Figur40_Elementer_og_relationer_i_grundperspektivet_Jura.png](Cassets/Figur40_Elementer_og_relationer_i_grundperspektivet_Jura.png)
+![Figur40_Elementer_og_relationer_i_grundperspektivet_Jura.png](assets/Figur40_Elementer_og_relationer_i_grundperspektivet_Jura.png)
 
 Figur 40: Elementer og relationer i grundperspektivet Jura
 
