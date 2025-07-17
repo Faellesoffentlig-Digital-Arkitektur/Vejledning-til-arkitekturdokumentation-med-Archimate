@@ -72,7 +72,7 @@ ArchiMate giver som modelleringssprog en ensartet repræsentation af diagrammer,
 
 ArchiMate beskriver og visualiserer forskellige arkitekturdomæner. Sprogets elementer er struktureret i seks lag og fire aspekter, som er forbundet med relationer (kaldet _relationships_). Figur 2viser et overblik over ArchiMate-rammeværket. Alle ArchiMate-elementer er knyttet til et af lagene (_Strategy_, _Business_, _Application_ etc.) og til et af de tre aspekter Passiv struktur, Adfærd og Aktiv struktur. Hertil kommer en række elementer, som hører til det fjerde aspekt kaldet _Motivation_, og som ikke hører til nogen af de seks lag.
 
-![Figur2_ArchiMate_rammeværket.png](assets/Figur2_ArchiMate_rammeværket.png)
+![Figur2_ArchiMate_rammeværket.svg](assets/Figur2_ArchiMate_rammeværket.svg)
 
 Figur 2: ArchiMate-rammeværket
 
