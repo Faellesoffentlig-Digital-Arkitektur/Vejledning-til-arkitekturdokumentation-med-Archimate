@@ -458,7 +458,7 @@ Følgende interessenter er identificeret:
 
 Figur 25: Simpel visning af interessentanalyse
 
-![Figur (26).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(26).png)
+![Figur26_Udvidet_visning_af_interessentanalyse.png](assets/Figur26_Udvidet_visning_af_interessentanalyse.png)
 
 Figur 26: Udvidet visning af interessentanalyse
 
@@ -468,7 +468,7 @@ I nedenstående simple eksempel fra NGDP er interessenterne listet op ved siden 
 
 Eksemplet viser hvilke interessenter som er relateret til en løsning, hvor der skal tænkes automatisering ind. Interessenterne omfatter myndigheder, borgere og andre, der på den ene eller anden måde relateret til løsningen og projektet/initiativet.
 
-![Figur (27).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(27).png)
+![Figur27_Eksempel_på_interessentanalyse_fra_NGDP.png](assets/Figur27_Eksempel_på_interessentanalyse_fra_NGDP.png)
 
 Figur 27: Eksempel på interessentanalyse fra NGDP
 
@@ -484,13 +484,13 @@ Det vil typisk være elementer fra ArchiMates strategi- og forretningslag, samt 
 
 ArchiMate-elementer, som ofte anvendes i relation til arkitekturprodukter i strategiperspektivet, er vist i nedenstående figur.
 
-![Figur (28).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(28).png)
+![Figur28_Elementer_i_grundperspektivet_Strategi.png](assets/Figur28_Elementer_i_grundperspektivet_Strategi.png)
 
 Figur 28: Elementer i grundperspektivet Strategi
 
 Nedenstående figur illustrerer udvalgte relationer mellem elementerne.
 
-![Figur (29).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(29).png)
+![Figur29_Elementer_og_relationer_i_grundperspektivet_Strategi.png](assets/Figur29_Elementer_og_relationer_i_grundperspektivet_Strategi.png)
 
 Figur 29: Elementer og relationer i grundperspektivet Strategi
 
@@ -563,7 +563,7 @@ Det er især nyttigt til skabe overblik ved transition til målarkitekturen genn
 
 På baggrund af casen om den fiktive styrelse, er der givet nedenstående eksempel på hvorledes arkitekturproduktet Målarkitektur kan se ud.
 
-![Figur (32).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(32).png)
+![Figur32_Visning_af_målarkitektur.png](assets/Figur32_Visning_af_målarkitektur.png)
 
 Figur 32: Visning af Målarkitektur
 
@@ -571,7 +571,7 @@ Figur 32: Visning af Målarkitektur
 
 Nedenstående eksempel viser et udkast til et målbillede for en guide-løsning, der skal understøtte brugerrejser på tværs af en række underliggende selvbetjeningsløsninger og bagvedliggende fagsystemer.
 
-![Figur (33).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(33).png)
+![Figur33_Eksempel_på_målarkitektur_fra_en_Guide_løsning.png](assets/Figur33_Eksempel_på_målarkitektur_fra_en_Guide_løsning.png)
 
 Figur 33: Eksempel på målarkitektur fra en Guide-løsning
 
@@ -583,13 +583,13 @@ Eksemplet er en relativ avanceret visning med en række veldefinerede relationer
 
 Forretningsarkitekturen giver et overblik over de relevante aktører, de roller de kan have og de services de kan anvende i forhold til det centrale forretningsobjekt, som er Digital Post meddelelse. It-arkitekturen viser tilsvarende de centrale applikationsservices der skal understøtte de definerede forretningsservices, samt de applikationskomponenter og interfaces, der skal realisere disse services. Desuden vises de centrale dataobjekter, der skal understøtte løsningens centrale kapabilitet, som er kommunikation og distribution af postmeddelelser.
 
-![Figur (34).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(34).png)
+![Figur34_Eksempe_på_målarkitektur_fra_NGDP.png](assets/Figur34_Eksempe_på_målarkitektur_fra_NGDP.png)
 
 Figur 34: Eksempel på målarkitektur fra NGDP
 
 Nedenfor er samme visning suppleret med yderligere information om de overordnede styrende mål og krav. Denne visning giver således et samlet resumé - et “executive summary” - af hele målarkitekturen.
 
-![Figur (35).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(35).png)
+![Figur35_Eksempel_på_udvidet_målbillede_fra_NGDP.png](assets/Figur35_Eksempel_på_udvidet_målbillede_fra_NGDP.png)
 
 Figur 35: Eksempel på udvidet målbillede fra NGDP
 
@@ -627,7 +627,7 @@ Alternativt kan der udarbejdes en visning hvor alle relevante mål og transition
 
 På baggrund af casen om den fiktive styrelse, er der givet nedenstående eksempel på hvorledes arkitekturproduktet Migreringsstrategi/Roadmap kan se ud.
 
-![Figur (36).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(36).png)
+![Figur36_Visning_af_Migreringsstrategi.png](assets/Figur36_Visning_af_Migreringsstrategi.png)
 
 Figur 36: Visning af Migreringsstrategi
 
@@ -647,7 +647,7 @@ Af pladshensyn er det ikke muligt at vise detaljerne i disse visninger. Den nysg
 
 Det næste eksempel er hentet fra projektet om et fællesoffentligt testmiljø (FOTM). Her er fokus at vise de projektleverancer, der skal realisere de forskellige plateauer på vejen mod opbygningen af den målsatte kapabilitet (understøtte test af brugerrejser på tværs af løsninger, herunder anvendelse af de fællesoffentlige infrastrukturservices som fx Digital Post, NemID/MitID og NemLogin).
 
-![Figur (38).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(38).png)
+![Figur38_Eksempel_på_migreringsstrategi_fra_FOTM.png](assets/Figur38_Eksempel_på_migreringsstrategi_fra_FOTM.png)
 
 Figur 38: Eksempel på migreringsstrategi fra FOTM
 
@@ -659,13 +659,13 @@ Det juridiske perspektiv har til formål at afdække de juridiske rammer, som or
 
 Her anvendes typisk tre ArchiMate-elementer: Begrænsninger (C_onstraints_), Krav (_Requirement_) og Kontrakt _(Contract)_.
 
-![Figur (39).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(39).png)
+![Figur39_Elementer_i_grundperspektivet_Jura.png](assets/Figur39_Elementer_i_grundperspektivet_Jura.png)
 
 Figur 39: Elementer i grundperspektivet Jura
 
 Nedenstående figur illustrerer de tilladte relationer mellem elementerne.
 
-![Figur (40).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(40).png)
+![Figur40_Elementer_og_relationer_i_grundperspektivet_Jura.png](Cassets/Figur40_Elementer_og_relationer_i_grundperspektivet_Jura.png)
 
 Figur 40: Elementer og relationer i grundperspektivet Jura
 
@@ -693,7 +693,7 @@ Anvendes til at skabe overblik juridisk funderet mandat og begrænsninger for l�
 
 På baggrund af casen om den fiktive styrelse, er der givet nedenstående eksempel på hvorledes arkitekturproduktet juridiske bindinger kan se ud.
 
-![Figur (41).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(41).png)
+![Figur41_Simpel_visning_af_juridiske_bindinger.png](assets/Figur41_Simpel_visning_af_juridiske_bindinger.png)
 
 Figur 41: Simpel visning af juridiske bindinger
 
@@ -701,7 +701,7 @@ Figur 41: Simpel visning af juridiske bindinger
 
 Nedenstående eksempel fra guide-projektet viser et simpelt første overblik over de overordnede forhold, der skal tages i betragtning. Det er delt op i tre grupperinger for henholdsvis lovgivning, aftaler og projektaftaler. Eksemplet viser, at der både kan være juridisk bindende og ikke juridisk bindende forpligtelser. Alle disse kan i det videre arbejde kortlægges og nedbrydes yderligere til konkrete krav til løsningen, i den grad det er relevant.
 
-![Figur (42).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(42).png)
+![Figur42_Eksempel_på_juridiske_bindinger_fra_guide_projektet.png](assets/Figur42_Eksempel_på_juridiske_bindinger_fra_guide_projektet.png)
 
 Figur 42: Eksempel på juridiske bindinger fra guide-projektet
 
@@ -709,7 +709,7 @@ Figur 42: Eksempel på juridiske bindinger fra guide-projektet
 
 Det næste eksempel er hentet fra NGDP-projektet. Det første diagram er et tidligt udkast, der viser et simpelt overblik over lovgrundlag, temaer for funktionelle og non-funktionelle krav, samt de vigtigste typer af kontrakter og aftaler, der skal realisere disse.
 
-![Figur (43).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(43).png)
+![Figur43_Eksempel_på_juridiske_bindinger_fra_NGDP_projektet.png](assets/Figur43_Eksempel_på_juridiske_bindinger_fra_NGDP_projektet.png)
 
 Figur 43: Eksempel på juridiske bindinger fra NGDP-projektet
 
@@ -717,7 +717,7 @@ Figur 43: Eksempel på juridiske bindinger fra NGDP-projektet
 
 Det næste diagram er en alternativ visning med en let viderebearbejdning, der viser sammenhængene mellem NGDPs lovgrundlag, de funktionelle kravgrupper, der temasætter kravene, og de anvendte kontrakter i styringen.
 
-![Figur (44).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(44).png)
+![Figur44_Eksempel_på_juridiske_bindinger_med_relation_fra_NGDPprojektet.png](assets/Figur44_Eksempel_på_juridiske_bindinger_med_relation_fra_NGDPprojektet.png)
 
 Figur 44: Eksempel på juridiske bindinger med relation fra NGDP-projektet
 
@@ -735,13 +735,13 @@ Dette tværgående perspektiv dokumenterer alle væsentlige sikkerheds- og priva
 
 Her er vist de typiske ArchiMate-elementer, som anvendes i sikkerhedsperspektiver.
 
-![Figur (45).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(45).png)
+![Figur45_Elementer_i_grundperspektivet_Sikkerhed.png](assets/Figur45_Elementer_i_grundperspektivet_Sikkerhed.png)
 
 Figur 45: Elementer i grundperspektivet Sikkerhed
 
 Nedenstående figur illustrerer de tilladte relationer mellem elementerne.
 
-![Figur (46).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(46).png)
+![Figur46_Elementer_og_relationer_i_grundperspektivet_Sikkerhed.png](assets/Figur46_Elementer_og_relationer_i_grundperspektivet_Sikkerhed.png)
 
 Figur 46: Elementer og relationer i grundperspektivet Sikkerhed
 
@@ -782,13 +782,13 @@ På baggrund af casen om den fiktive styrelse, er der givet nedenstående to eks
 
 Bemærk at sikkerhedshændelser og risici er markeret med rød, hvilket er en tilpasning af standardfarverne for elementerne hhv. hændelse og vurdering. Den røde farve er anvendt for at vise hvordan man kan markere elementer med et særligt sikkerhedsfokus. Som nævnt tidligere, har ArchiMate ikke et specifikt lag eller aspekt for sikkerhed. Sikkerhedskrav kan her ses som handlinger, som skal hjælpe med til at afbøde (mitigering) sandsynlighed og/eller konsekvensen af en risiko.
 
-![Figur (47).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(47).png)
+![Figur47_Simpel_visning_af_trussels_og_risikokatalog.png](assets/Figur47_Simpel_visning_af_trussels_og_risikokatalog.png)
 
 Figur 47: Simpel visning af trussels- og risikokatalog
 
 I det udvidede eksempel er sikkerhedshændelser og risici relateret til hinanden og grupperet i fire grundlæggende tilgange til sikkerhed (fortrolighed, integritet, tilgængelighed og robusthed). Ligeledes er risici relateret til konkrete byggeblokke i arkitekturen, som de enkelte hændelser vil påvirke. Endelig er de relaterede sikkerhedskrav medtaget.
 
-![Figur (48).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(48).png)
+![Figur48_Udvidet_visning_af_trussels_og_risikokatalog.png](assets/Figur48_Udvidet_visning_af_trussels_og_risikokatalog.png)
 
 Figur 48: Udvidet visning af trussels- og risikokatalog
 
@@ -796,7 +796,7 @@ Figur 48: Udvidet visning af trussels- og risikokatalog
 
 Nedenstående eksempel viser et overblik over sikkerhedsbegrænsninger, som er særligt væsentlige i projektet om ny generation digital post, og som derfor skal tænkes ind i arkitekturen og i projektet. Det er udarbejdet i analysefasen, og giver et samlet overblik på tværs af interessenterne og deres mange forskellige perspektiver. Det dækker fx brugerstyring, persondatabeskyttelse, sikkerhed i løsningen, driftssikkerhed, fysisk sikkerhed, test af sikkerhed og ikke mindst governance i forhold til sikkerhed. Det giver således et godt grundlag for det overordnede overblik og koordinering i forhold til projektets tværgående sikkerhedsaspekter.
 
-![Figur (49).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(49).png)
+![Figur49_Eksempel_på_sikkerhedsbegrænsninger_fra_NGDP.png](assets/Figur49_Eksempel_på_sikkerhedsbegrænsninger_fra_NGDP.png)
 
 Figur 49: Eksempel på sikkerhedsbegrænsninger fra NGDP
 
@@ -820,13 +820,13 @@ Sikkerhedsmodellen anvendes bl.a. af forretnings og it-arkitekter til at afklare
 
 På baggrund af casen om den fiktive styrelse, er der givet nedenstående to eksempler på hvorledes arkitekturproduktet sikkerhedsmodel kan se ud.
 
-![Figur (50).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(50).png)
+![Figur50_Simpel_vining_af_sikkerhedsmodel.png](assets/Figur50_Simpel_vining_af_sikkerhedsmodel.png)
 
 Figur 50: Simpel visning af sikkerhedsmodel
 
 Den udvidede model viser hvordan de to forretningsservices er sikkerhedsmæssigt understøttet. Borgerens mulighed for indberetning af en klage sker via en klageportal ved brug af NemLogin, hvorimod modtagelse af afgørelse sker via digitalt signeret e-mail til borgeren.
 
-![Figur (51).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(51).png)
+![Figur51_Udvidet_visning_af_sikkerhedsmodel.png](assets/Figur51_Udvidet_visning_af_sikkerhedsmodel.png)
 
 Figur 51: Udvidet visning af sikkerhedsmodel
 
@@ -836,7 +836,7 @@ Nedenstående eksempel fra Guide-projektet viser, at der er flere sikkerhedsdom�
 
 I denne visning er der fokus på applikationslandskabet med de vigtigste komponenter, services og snitflader samt de centrale forretningsobjekter knyttet til tværgående rettighedsstyring. I denne visning er det centrale punkt for systemintegration mellem orkestreringskomponenten og underliggende databærende systemer fremhævet med brug af elementet _softwareinteraktion_.
 
-![Figur (52).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(52).png)
+![Figur52_Eksempel_på_sikkerhedsmodel_fra_Guideprojektet.png](assets/Figur52_Eksempel_på_sikkerhedsmodel_fra_Guideprojektet.png)
 
 Figur 52: Eksempel på sikkerhedsmodel fra Guide-projektet
 
@@ -849,7 +849,7 @@ Det næste eksempel fra PULS-projektet er mere simpelt, men kombineret med andre
 * ISO 27001/5 skal følges.
 * Der er to kontraktuelle forhold der skal håndteres vedr. brugerstyring og serviceanvendelse.
 
-![Figur (53).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(53).png)
+![Figur53_Eksempel_på_sikkerhedsmodel_fra_PULSprojektet.png](assets/Figur53_Eksempel_på_sikkerhedsmodel_fra_PULSprojektet.png)
 
 Figur 53: Eksempel på sikkerhedsmodel fra PULS-projektet
 
@@ -865,13 +865,13 @@ Opgaveperspektivet kan beskrives overordnet i form af arkitekturprodukter som fx
 
 ArchiMate-elementer, som ofte anvendes i relation til arkitekturprodukter i opgave- perspektivet, er vist i nedenstående figur.
 
-![Figur (54).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(54).png)
+![Figur54_Elementer_i_grundperspektivet_Opgaver.png](assets/Figur54_Elementer_i_grundperspektivet_Opgaver.png)
 
 Figur 54: Elementer i grundperspektivet Opgaver
 
 Nedenstående figur illustrerer udvalgte relationer mellem elementerne.
 
-![Figur (55).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(55).png)
+![Figur55_Elementer_og_relationer_i_grundperspektivet_Opgaver.png](assets/Figur55_Elementer_og_relationer_i_grundperspektivet_Opgaver.png)
 
 Figur 55: Elementer og relationer i grundperspektivet Opgaver
 
@@ -909,11 +909,11 @@ Klageprocessen består af følgende processer:
 * _Klagebehandling: Hvor sagsbehandleren vurderer og eventuelt genberegner for at nå til en afgørelse._
 * _Afsend afgørelse: Hvor sagsbehandleren via ESDH-systemet afsender afgørelsen og arkiverer sagen._
 
-![Figur (56).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(56).png)
+![Figur56_Simpel_visning_af_Proceslandskab.png](assets/Figur56_Simpel_visning_af_Proceslandskab.png)
 
 Figur 56: Simpel visning af Proceslandskab
 
-![Figur (57).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(57).png)
+![Figur57_Udvidet_visning_af_Proceslandskab.png.png](assets/Figur57_Udvidet_visning_af_Proceslandskab.png.png)
 
 Figur 57: Udvidet visning af Proceslandskab
 
@@ -921,7 +921,7 @@ Figur 57: Udvidet visning af Proceslandskab
 
 Nedenstående eksempel fra FOTM viser et simpelt overblik over de processer der skal gennemføres i forbindelse med klargøring, opsætning og gennemførelse af test af et givent system med brug af det fællesoffentlige testmiljø.
 
-![Figur (58).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(58).png)
+![Figur58_Eksempel_på_proceslandskab_fra_FOTM.png](assets/Figur58_Eksempel_på_proceslandskab_fra_FOTM.png)
 
 Figur 58: Eksempel på proceslandskab fra FOTM
 
@@ -952,11 +952,11 @@ En aktør kan være en person eller en organisation (fx virksomhed eller myndigh
 
 På baggrund af casen om den fiktive styrelse, er der givet nedenstående to eksempler på hvorledes arkitekturproduktet Aktør/rolle kan se ud.
 
-![Figur (59).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(59).png)
+![Figur59_Simpel_visning_af_aktør-rolle.png](assets/Figur59_Simpel_visning_af_aktør-rolle.png)
 
 Figur 59: Simpel visning af aktør/rolle
 
-![Figur (60).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(60).png)
+![Figur60_Udvidet_visning_af_aktør_rolle.png](assets/Figur60_Udvidet_visning_af_aktør_rolle.png)
 
 Figur 60: Udvidet visning af aktør/rolle
 
@@ -964,7 +964,7 @@ Figur 60: Udvidet visning af aktør/rolle
 
 Nedenstående eksempel fra FOTM giver et overordnet, grupperet overblik over aktører og roller grupperet. Her giver det et højniveau billede der minder om et interessentoverblik med roller som systemejer, arkitekt, support og drift. En del af disse roller er relevante i forhold til styring og ansvar i relation til løsningen, mens andre er relevante som brugere af løsningen. Næste skridt kunne være at relatere aktører og roller og anvende dette til en rettighedsmodel.
 
-![Figur (61).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(61).png)
+![Figur61_Eksempel_på_aktør_roller_fra_FOTM.png](assets/Figur61_Eksempel_på_aktør_roller_fra_FOTM.png)
 
 Figur 61: Eksempel på aktører / roller fra FOTM
 
@@ -972,7 +972,7 @@ Figur 61: Eksempel på aktører / roller fra FOTM
 
 Det følgende eksempel fra NGDP viser et overblik over digital post aktører og de roller, de kan tildeles. I denne visning er der ikke relationer der viser hvilke aktører der kan tildeles hvilke roller. Til gengæld viser dette overblik, de andre elementer i arkitekturen, der er centrale i forhold til aktører og roller med udgangspunkt i et specifikt epic.
 
-![Figur (62).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(62).png)
+![Figur62_Eksempel_på_aktør_roller_fra_NDGP_projektet.png](assets/Figur62_Eksempel_på_aktør_roller_fra_NDGP_projektet.png)
 
 Figur 62: Eksempel på aktører / roller fra NGDP-projektet
 
@@ -1005,13 +1005,13 @@ På baggrund af casen om den fiktive styrelse, er der givet nedenstående to eks
 
 Eksemplet viser brugerrejsen for en sagsbehandler, som skal behandle en modtaget klage. Her er brugerrejse anvendt som en simpel procesmodel. Hvis der skal indgå flere detaljer, bør modellen i stedet laves i BPMN.
 
-![Figur (63).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(63).png)
+![Figur63_Simpel_vising_af_brugerrejse.png](assets/Figur63_Simpel_vising_af_brugerrejse.png)
 
 Figur 63: Simpel visning af brugerrejse
 
 I det udvidede eksempel er der lavet en relation til relevante forretningsobjekter og en indikation af hvilke it-systemer, som understøtter funktionerne.
 
-![Figur (64).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(64).png)
+![Figur64_Udvidet_vising_af_brugerrejse.png](assets/Figur64_Udvidet_vising_af_brugerrejse.png)
 
 Figur 64: udvidet visning af brugerrejse
 
@@ -1019,7 +1019,7 @@ Figur 64: udvidet visning af brugerrejse
 
 Dette eksempel fra FOTM-projektet viser en case med brug af NemLogin i forhold til en feriepenge-løsning via borger.dk. Eksemplet viser hvordan brugerens rejse fra start til slut understøttes på tværs af flere systemer.
 
-![Figur (65).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(65).png)
+![Figur65_Eksempel_på_brugerrejse_fra_FOTM.png](assets/Figur65_Eksempel_på_brugerrejse_fra_FOTM.png)
 
 Figur 65: Eksempel på brugerrejse fra FOTM-projektet
 
@@ -1048,11 +1048,11 @@ Dette produkt går på tværs af grundperspektiver Opgaver og Information og er 
 
 På baggrund af casen om den fiktive styrelse, er der givet nedenstående to eksempler på hvorledes arkitekturproduktet servicemodel kan se ud.
 
-![Figur (66).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(66).png)
+![Figur66_Simpel_visning_af_servicemodel.png](assets/Figur66_Simpel_visning_af_servicemodel.png)
 
 Figur 66: Simpel visning af servicemodel
 
-![Figur (67).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(67).png)
+![Figur67_Udvidet_visning_af_servicemodel.png](assets/Figur67_Udvidet_visning_af_servicemodel.png)
 
 Figur 67: udvidet visning af servicemodel
 
@@ -1064,7 +1064,7 @@ Dette overblik viser ikke detaljer eller relationer, men de vigtigste elementer 
 
 Her er fokus i fortællingen at nogle aktører, med nogle roller, skal kunne udføre nogle services i nogle processer via et serviceinterface. Det data (forretningsobjekt) der er centralt er et token. Diagrammet kan indgå i dokumentationen af forretningsservices og fx suppleres med en mere detaljeret tekstbeskrivelse af servicemodellen med krav til data, funktionalitet og non-funktionelle krav.
 
-![Figur (68).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(68).png)
+![Figur68_Eksempel_paa_servicemodel_fra_MDP.png](assets/Figur68_Eksempel_paa_servicemodel_fra_MDP.png)
 
 Figur 68: Eksempel på servicemodel fra DMP
 
@@ -1080,13 +1080,13 @@ Informationsperspektivet giver et overblik over data og præsentationen af data 
 
 ArchiMate-elementer, som ofte anvendes i relation til arkitekturprodukter i opgave- perspektivet, er vist i nedenstående figur.
 
-![Figur (69).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(69).png)
+![Figur69_Elementer_i_grundperspektivet_Information.png](assets/Figur69_Elementer_i_grundperspektivet_Information.png)
 
 Figur 69: Elementer i grundperspektivet Information
 
 Nedenstående figur illustrerer udvalgte relationer mellem elementerne.
 
-![Figur (70).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(70).png)
+![Figur70_Elementer_og_relationer_i_grundperspektivet_Information.png](assets/Figur70_Elementer_og_relationer_i_grundperspektivet_Information.png)
 
 Figur 70: Elementer og relationer i grundperspektivet Information
 
@@ -1116,11 +1116,11 @@ De identificerede forretningsobjekter kan desuden anvendes i forbindelse med det
 
 På baggrund af casen om den fiktive styrelse, er der givet nedenstående to eksempler på hvorledes arkitekturproduktet Centrale forretningsobjekter kan se ud.
 
-![Figur (71).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(71).png)
+![Figur71_Simpel_visning_af_centrale_forretningsobjekter.png](assets/Figur71_Simpel_visning_af_centrale_forretningsobjekter.png)
 
 Figur 71: Udvidet visning af centrale forretningsobjekter
 
-![Figur (72).png](C:\Users\B339605\Documents\GitHub\Vejledning-til-arkitekturdokumentation-med-Archimate\assets\Figur%20(72).png)
+![Figur72_Udvidet_visning_af_centrale_forretningsobjekter.png](assets/Figur72_Udvidet_visning_af_centrale_forretningsobjekter.png)
 
 Figur 72: Udvidet visning af centrale forretningsobjekter
 
