@@ -12,7 +12,7 @@ Vejledningen introducerer, hvordan arkitekturdokumentation kan udarbejdes i forb
 
 Digitaliseringsstyrelsen (DIGST) vil med vejledningen sætte anvendelsen af ArchiMate i en dansk offentlig kontekst, fx i forhold til projekters anvendelse af FDA-rammearkitektur, arkitekturreview og it-projektmodel. Vejledningen skal hjælpe læseren med at forstå, hvordan ArchiMate kan bruges som notations- og modelsprog til at specificere en række arkitekturprodukter.
 
-Vejledningen giver med korte beskrivelser og konkrete eksempler hjælp til at komme i gang med at bruge ArchiMate til en række af de arkitekturprodukter, der er beskrevet i FDA-dokumentet [_Retningslinjer for formidling og dokumentation af arkitektur i digitaliseringsprojekter_](/node/563).
+Vejledningen giver med korte beskrivelser og konkrete eksempler hjælp til at komme i gang med at bruge ArchiMate til en række af de arkitekturprodukter, der er beskrevet i FDA-dokumentet [_Retningslinjer for formidling og dokumentation af arkitektur i digitaliseringsprojekter_](https://github.com/Faellesoffentlig-Digital-Arkitektur/Retningslinjer-for-formidling-og-dokumentation-af-arkitektur-i-digitaliseringsprojekter).
 
 Vejledningen er udarbejdet på et tidspunkt, hvor erfaringer med anvendelse af ArchiMate stadig er relativt begrænsede. Det er derfor forventningen, at vejledningen løbende vil blive opdateret.
 
@@ -46,7 +46,7 @@ For at opnå den nødvendige kvalitet i dokumentation af arkitekturen, kræves d
 
 ### Læsevejledning
 
-Denne vejledning udspringer af Hvidbogens arkitekturregler 1.3 om anvendelse af fælles ramme for beskrivelse af arkitektur, og herunder mere specifikt _Retningslinjer for formidling og dokumentation af arkitektur i digitaliseringsprojekter_ (i det følgende benævnt [_Retningslinjer om arkitekturdokumentation_](/node/563)), på lige fod med en række andre vejledninger og regler for begrebs- og datamodellering (se Figur 1).
+Denne vejledning udspringer af Hvidbogens arkitekturregler 1.3 om anvendelse af fælles ramme for beskrivelse af arkitektur, og herunder mere specifikt _Retningslinjer for formidling og dokumentation af arkitektur i digitaliseringsprojekter_ (i det følgende benævnt [_Retningslinjer om arkitekturdokumentation_](https://github.com/Faellesoffentlig-Digital-Arkitektur/Retningslinjer-for-formidling-og-dokumentation-af-arkitektur-i-digitaliseringsprojekter)), på lige fod med en række andre vejledninger og regler for begrebs- og datamodellering (se Figur 1).
 
 ![Figur1_Sammenhæng_mellem_tre_af_hvidbogens_arkitekturregler_til_side_og_underordnede_dokumenter.svg](assets/Figur1_Sammenhæng_mellem_tre_af_hvidbogens_arkitekturregler_til_side_og_underordnede_dokumenter.svg)
 
@@ -298,7 +298,7 @@ De valgte diagrammer er valgt ud fra hvad der i skrivende stund var tilgængelig
 
 Som supplement til denne vejledning er der udarbejdet en fil med konkrete model-eksempler. Filen omfatter dels de visninger der indgår i vejledningen samt en række øvrige eksempler. Filen findes i flere formater, der understøtter forskellige værktøjer. På FDA-hjemmesiden findes der en kort vejledning til anvendelse af filen.
 
-[Filen med eksempler kan downloades her](/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/modeleksempler_til_archimate-vejledning.zip)
+[Filen med eksempler kan downloades her](https://arkitektur.digst.dk/sites/default/fileuploads/Metoder/Arkitekturmetoder/Vejledning%20til%20arkitekturdokumentation%20med%20Archimate/modeleksempler_til_archimate-vejledning.zip)
 
 Det gratis open source-værktøj Archi kan benyttes til at åbne filen: [www.archimatetool.com](http://www.archimatetool.com)
 
