@@ -1502,8 +1502,8 @@ Der findes en række værktøjer, som kan anvendes til modellering af arkitektur
 
 I Tabel 1 herunder er listet de mest gængse værktøjer, som anvendes i dansk offentlig kontekst.
 
-|     |     |     |     |
-| --- | --- | --- | --- |Tabel 1: Værktøjer til modellering af ArchiMate
+Tabel 1: Værktøjer til modellering af ArchiMate
+
 | Værktøj | Leverandør | Funktionalitet | Reference |
 | --- | --- | --- | --- |
 | Archi | Archimatetool | Basis | [www.archimatetool.com](http://www.archimatetool.com) |
