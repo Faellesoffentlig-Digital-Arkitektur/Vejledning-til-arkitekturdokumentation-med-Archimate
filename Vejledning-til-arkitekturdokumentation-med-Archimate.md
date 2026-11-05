@@ -70,7 +70,7 @@ ArchiMate giver som modelleringssprog en ensartet repræsentation af diagrammer,
 
 #### Struktur
 
-ArchiMate beskriver og visualiserer forskellige arkitekturdomæner. Sprogets elementer er struktureret i seks lag og fire aspekter, som er forbundet med relationer (kaldet _relationships_). Figur 2viser et overblik over ArchiMate-rammeværket. Alle ArchiMate-elementer er knyttet til et af lagene (_Strategy_, _Business_, _Application_ etc.) og til et af de tre aspekter Passiv struktur, Adfærd og Aktiv struktur. Hertil kommer en række elementer, som hører til det fjerde aspekt kaldet _Motivation_, og som ikke hører til nogen af de seks lag.
+ArchiMate beskriver og visualiserer forskellige arkitekturdomæner. Sprogets elementer er struktureret i seks lag og fire aspekter, som er forbundet med relationer (kaldet _relationships_). Figur 2 viser et overblik over ArchiMate-rammeværket. Alle ArchiMate-elementer er knyttet til et af lagene (_Strategy_, _Business_, _Application_ etc.) og til et af de tre aspekter Passiv struktur, Adfærd og Aktiv struktur. Hertil kommer en række elementer, som hører til det fjerde aspekt kaldet _Motivation_, og som ikke hører til nogen af de seks lag.
 
 ![Figur2_ArchiMate_rammeværket.svg](assets/Figur2_ArchiMate_rammeværket.svg)
 
@@ -102,7 +102,7 @@ En anden måde at vise ovenstående sammenhæng på kan være ved at anvende rel
 
 Figur 5: Eksempel på brug af direkte relation (association)
 
-Hvis en mere specifik relation anvendes, vil forståelse af modellen blive mere præcis. Figur 6illustrerer at aktøren _Organisation_ er tildelt (_assigned to_) processerne _Indsamle data_ og _Bearbejde data_, mens processen _Udstille data_ tjener (s_erves_) aktøren _Organisation_. Med andre ord er aktøren _Organisation_ ansvarlig for at indsamle og bearbejde data, men ikke for at udstille data. Processen _Udstille data_ bliver givetvis udført af en anden aktør, men det siger visningen ikke direkte.
+Hvis en mere specifik relation anvendes, vil forståelse af modellen blive mere præcis. Figur 6illustrerer at aktøren _Organisation_ er tildelt (_assigned to_) processerne _Indsamle data_ og _Bearbejde data_, mens processen _Udstille data_ tjener (serves) aktøren _Organisation_. Med andre ord er aktøren _Organisation_ ansvarlig for at indsamle og bearbejde data, men ikke for at udstille data. Processen _Udstille data_ bliver givetvis udført af en anden aktør, men det siger visningen ikke direkte.
 
 ![Figur6_Eksempel_på_brug_af_direkte_relation_med_forskellig_betydning.png](assets/Figur6_Eksempel_på_brug_af_direkte_relation_med_forskellig_betydning.png)
 
@@ -285,7 +285,7 @@ Hvert eksempel er beskrevet med et diagram og en kort fortælling, der hjælper 
 * Sag og Ydelsesoverblik (S&Y)
 * Guider til understøttelse af tværgående brugerrejser (Guide)
 * DMI/GovCloud (GovCloud)
-* Punktudledningssyetem (PULS)
+* Punktudledningssystem (PULS)
 * Hydrologisk Informations- og Prognosesystem (HIP)
 
 Det skal understreges, at der for alle projekter tages alle forbehold. Der er tale om projekter under udvikling. Generelt vil der kunne ske ændringer i både arkitekturen og i den konkrete dokumentation. Eksemplerne skal derfor alene betragtes som illustrative i forhold til vejledningen.
